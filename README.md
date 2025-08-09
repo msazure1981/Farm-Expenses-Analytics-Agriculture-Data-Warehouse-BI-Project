@@ -26,8 +26,13 @@ dim_farm_field
 dim_work_details
 
 dim_worker_details
+![DML](dwh/dim_crop_details.JPG)
+![DML](dwh/dim_farm_field.JPG)
+![DML](dwh/dim_work_details.JPG)
+![DML](dwh/dim_worker_details.JPG)
 
 ## Fact Table:
+![DML](dwh/fact_farm_filed.JPG)
 
 fact_farm_filed – contains expense records linked to all dimensions
 
@@ -35,6 +40,7 @@ fact_farm_filed – contains expense records linked to all dimensions
 Reports Included:
 
 ## Trend Report → Tracks expense trends over time
+![reports](reports/trned_report.JPG)
 
 ## Weekly Report → Weekly cost breakdown by field & crop
 
