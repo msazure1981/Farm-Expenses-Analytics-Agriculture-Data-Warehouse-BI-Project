@@ -49,13 +49,13 @@ Reports Included:
 ![reports](reports/overall_report.JPG)
 
 # 💡 Key Insights
-The most expensive crop and field
+## 1.The most expensive crop and field
 
-Seasonal trends in farming costs
+## 2.Seasonal trends in farming costs
 
-Worker productivity vs expense
+## 3.Worker productivity vs expense
 
-Work type cost breakdown
+## 4.Work type cost breakdown
 
 # ⚙️ Tech Stack
 ## Data Source: Google Sheets / CSV
