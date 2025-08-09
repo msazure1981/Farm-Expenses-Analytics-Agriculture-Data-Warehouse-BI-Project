@@ -15,7 +15,6 @@ This project tracks and analyzes farm-related expenses to provide insights on da
 ## Visualization → Power BI reports for actionable insights
 
 # 🗄 Data Model
-
 ![DML](dwh/DML.jpg)
 
 ## Dimensions:
