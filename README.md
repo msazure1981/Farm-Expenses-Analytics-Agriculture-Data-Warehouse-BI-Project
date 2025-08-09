@@ -40,12 +40,16 @@ fact_farm_filed – contains expense records linked to all dimensions
 Reports Included:
 
 ## Trend Report → Tracks expense trends over time
-![reports](reports/trned_report.JPG)
+![reports](reports/trend_report.JPG)
 
 ## Weekly Report → Weekly cost breakdown by field & crop
+![reports](reports/weekly_report.JPG)
+
+## Overall Report
+![reports](reports/overall_report.JPG)
 
 # 💡 Key Insights
-Most expensive crop and field
+The most expensive crop and field
 
 Seasonal trends in farming costs
 
