@@ -58,6 +58,7 @@ Visualization: Power BI
 Version Control: GitHub
 
 # 📂 Folder Structure
+
 Farm_Expenses_Analytics/
 │
 ├── 📂 Data
