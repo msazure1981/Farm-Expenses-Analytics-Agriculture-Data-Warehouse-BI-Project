@@ -1,0 +1,811 @@
+﻿FEID,Date,Number_of_Workers,Worker_Name,Gender,Field_Name,Work_Type,Crop_Name,Workers_Phone_Number,Pesticides_ID,Fertilizers_ID,Each_Workers_Amount_Per_Day,Other_Work,Other_Work_Amount,Comments
+1200,2025-05-31 00:00:00.000,2.0,"Raju malli,Ramesh panthula",Male,new bore land,Banana cut,Banana,NULL,NULL,NULL,500,NULL,NULL,NULL
+1095,2025-05-19 00:00:00.000,1.0,Raju malli,Male,new bore land,Areca tie,Areca,1234567890,NULL,NULL,500,NULL,NULL,NULL
+1094,2025-05-17 00:00:00.000,2.0,Raju malli and Ramesh panthula,Male,new bore land,cocoa pruning,cocoa,1234567890,NULL,NULL,500,NULL,NULL,NULL
+1093,2025-05-15 00:00:00.000,1.0,Raju malli,Male,badava,weed  plucking,areca and cocoa,1234567890,NULL,NULL,500,NULL,NULL,NULL
+1092,2025-05-14 00:00:00.000,2.0,"Raju malli, Ramesh panthula",Male,badava,weed plucking,areca and cocoa,1234567890,NULL,NULL,500,NULL,NULL,NULL
+1091,2025-05-13 00:00:00.000,2.0,"Raju malli,Ramesh panthula",Male,badava,weed pluking,area and cocoa,1234567890,NULL,NULL,500,NULL,NULL,NULL
+970,2025-05-09 00:00:00.000,2.0,"Raju malli, Ramesh panthula",Male,new bore land,cocoa pruning,cocoa,1234567890,NULL,NULL,500,NULL,NULL,NULL
+969,2025-05-08 00:00:00.000,2.0,"Raju malli , Ramesh panthula",Male,new bore land,cocoa pruning,cocoa,1234567890,NULL,NULL,500,NULL,NULL,NULL
+968,2025-05-06 00:00:00.000,2.0,"Raju malli,Ramesh panthula",Male,new bore land,Weed plucking,Cocoa and areca plants,1234567890,NULL,NULL,500,NULL,NULL,NULL
+66,2025-05-05 00:00:00.000,2.0,"ramesh pantula,raju malli",male,new bore land,weed plucking,all,1234567890,NULL,NULL,500,NULL,NULL,NULL
+971,2025-05-03 00:00:00.000,1.0,Ramesh,Male,new bore land,weed plucking,cocoa and areca,1234567890,NULL,NULL,500,NULL,100,Other person Raju malli left just 1 hour ago
+63,2025-05-02 00:00:00.000,2.0,"raju malli,ramesh pantula",male,badava,spray plants,all,1234567890,NULL,NULL,500,NULL,NULL,NULL
+62,2025-04-30 00:00:00.000,2.0,"raju malli,ramesh pantula",male,badava,spray plants,all,1234567890,NULL,NULL,500,NULL,NULL,NULL
+59,2025-04-29 00:00:00.000,2.0,NA,male,badava,spray plants,all,1234567890,NULL,NULL,500,NULL,NULL,NULL
+58,2025-04-28 00:00:00.000,2.0,NA,male,badava,spray plants,all,1234567890,NULL,NULL,500,,NULL,NULL
+51,2025-04-26 00:00:00.000,2.0,NA,male,temple land,spray plants,all,1234567890,NULL,NULL,500,NULL,NULL,NULL
+50,2025-04-25 00:00:00.000,2.0,"raju malli,ramesh pantula",male,temple land,spray plants,all,1234567890,NULL,NULL,500,NULL,NULL,NULL
+49,2025-04-22 00:00:00.000,2.0,NA,male,temple land,"spray plants ",all,1234567890,NULL,NULL,500,mungari apparao+raju malli,NULL,NULL
+48,2025-04-21 00:00:00.000,2.0,NA,male,new bore land,spray plants,all,1234567890,NULL,NULL,500,NULL,NULL,NULL
+47,2025-04-19 00:00:00.000,2.0,NA,male,badava,pipe digging,all,1234567890,NULL,NULL,500,NULL,NULL,NULL
+36,2025-04-17 00:00:00.000,2.0,NA,Male,badava,"pipe digging ",all,1234567890,NULL,NULL,500,afternoon  work,NULL,NULL
+35,2025-04-15 00:00:00.000,2.0,NA,Male,new bore land,"spray plants ",all,1234567890,NULL,NULL,500,NULL,NULL,NULL
+34,2025-04-14 00:00:00.000,2.0,NA,Male,new bore land,"coco curves+spray plants ",coco+all,1234567890,NULL,NULL,500,NULL,NULL,NULL
+33,2025-04-12 00:00:00.000,2.0,NA,Male,new bore land,coco curves,coco,1234567890,NULL,NULL,500,NULL,NULL,NULL
+32,2025-04-10 00:00:00.000,3.0,NA,Male,badava,"coco curves ",coco,1234567890,NULL,NULL,500,NULL,NULL,NULL
+31,2025-04-09 00:00:00.000,3.0,NA,Male,new bore land,coco curves,coco,1234567890,NULL,NULL,500,NULL,NULL,NULL
+30,2025-04-08 00:00:00.000,2.0,NA,Male,new bore land,coco curves,coco,1234567890,NULL,NULL,500,NULL,NULL,NULL
+29,2025-04-07 00:00:00.000,3.0,NA,Male,new bore land,weed spray,all,1234567890,NULL,NULL,500,NULL,NULL,NULL
+67,2025-04-06 00:00:00.000,2.0,"raju malli,rmsh pantulu",male,new bore land,weed plucking,all,1234567890,NULL,NULL,500,NULL,NULL,NULL
+28,2025-04-05 00:00:00.000,2.0,NA,Male,new bore land,weed spray,all,1234567890,NULL,NULL,500,NULL,NULL,NULL
+64,2025-04-03 00:00:00.000,1.0,ramesh,male,new bore land,weed plucking,all,1234567890,NULL,NULL,500,NULL,NULL,raju 1hour
+44,2025-04-03 00:00:00.000,3.0,NA,Male,badava,coco curves,coco,1234567890,NULL,NULL,500,NULL,NULL,NULL
+43,2025-04-02 00:00:00.000,3.0,NA,Male,badava,coco curves,coco,1234567890,NULL,NULL,500,NULL,NULL,NULL
+42,2025-03-29 00:00:00.000,2.0,NA,Male,badava,coco curves,coco,1234567890,NULL,NULL,500,NULL,NULL,NULL
+41,2025-03-28 00:00:00.000,2.0,NA,Male,badava,coco curves,coco,1234567890,NULL,NULL,500,NULL,NULL,NULL
+40,2025-03-27 00:00:00.000,3.0,NA,Male,badava,"punching+coco curves ",all,1234567890,NULL,NULL,500,NULL,NULL,NULL
+39,2025-03-26 00:00:00.000,3.0,NA,Male,badava,punching,all,1234567890,NULL,NULL,500,ramesh left 12:20,NULL,NULL
+38,2025-03-25 00:00:00.000,3.0,NA,Male,badava,punching,all,1234567890,NULL,NULL,500,NULL,NULL,NULL
+37,2025-03-24 00:00:00.000,3.0,NA,Male,badava,punching,all,1234567890,NULL,NULL,500,NULL,NULL,NULL
+27,2025-03-22 00:00:00.000,3.0,NA,Male,badava,"preparation of micro tube ",all,1234567890,NULL,NULL,500,NULL,NULL,NULL
+26,2025-03-21 00:00:00.000,4.0,NA,Male,"badava+temple land ",punching+trench close,all,1234567890,NULL,NULL,500,NULL,NULL,NULL
+25,2025-03-20 00:00:00.000,1.0,NA,Male,badava,"punching ",all,1234567890,NULL,NULL,500,NULL,NULL,NULL
+24,2025-03-19 00:00:00.000,2.0,NA,Male,temple land,"trench close ",all,1234567890,NULL,NULL,500,NULL,NULL,NULL
+23,2025-03-18 00:00:00.000,2.0,NA,Male,temple land,trench close,all,1234567890,NULL,NULL,500,NULL,NULL,NULL
+22,2025-03-17 00:00:00.000,2.0,NA,Male,badava,drip punching,all,1234567890,NULL,NULL,500,NULL,NULL,NULL
+21,2025-03-14 00:00:00.000,2.0,NA,Male,"badava+temple land ",punching+drip trench close,all,1234567890,NULL,NULL,500,NULL,NULL,NULL
+20,2025-03-13 00:00:00.000,2.0,NA,Male,badava,"making holes ",all,1234567890,NULL,NULL,500,NULL,NULL,NULL
+19,2025-03-11 00:00:00.000,2.0,NA,Male,temple land,"preparation of micro tube ",all,1234567890,NULL,NULL,500,NULL,NULL,NULL
+18,2025-03-10 00:00:00.000,2.0,NA,Male,temple land,preparation of micro tube,all,1234567890,NULL,NULL,500,NULL,NULL,NULL
+17,2025-03-08 00:00:00.000,4.0,NA,Male,temple land,"drip work ",making holes,1234567890,NULL,NULL,500,NULL,NULL,NULL
+16,2025-03-07 00:00:00.000,4.0,NA,Male,temple land,"drip work ",making holes,1234567890,NULL,NULL,500,NULL,NULL,NULL
+15,2025-03-06 00:00:00.000,2.5,NA,Male,temple land,drip work,all,1234567890,NULL,NULL,500,NULL,NULL,NULL
+14,2025-03-05 00:00:00.000,3.0,NA,Male,temple land,drip work,all,1234567890,NULL,NULL,500,NULL,NULL,NULL
+13,2025-03-04 00:00:00.000,3.0,NA,Male,badava,coco curves,coco,1234567890,NULL,NULL,500,NULL,NULL,NULL
+12,2025-03-01 00:00:00.000,4.0,NA,Male,"badava+bore land ",coco curves+spray,coco+weed,1234567890,NULL,NULL,500,NULL,NULL,NULL
+11,2025-02-28 00:00:00.000,4.0,NA,Male,"temple land +bore land ",digging +weed,all+weed,1234567890,NULL,NULL,500,NULL,NULL,NULL
+10,2025-02-27 00:00:00.000,4.0,NA,Male,"temple land +bore land ",digging -weed spray,all+weed,1234567890,NULL,NULL,500,NULL,NULL,NULL
+9,2025-02-26 00:00:00.000,8.0,NA,Male,temple land,"drip work digging ",all,1234567890,NULL,NULL,500,NULL,NULL,NULL
+8,2025-02-25 00:00:00.000,7.0,NA,Male,temple land,"drip work digging ",all,1234567890,NULL,NULL,500,NULL,NULL,NULL
+7,2025-02-24 00:00:00.000,7.0,NA,Male,temple land,drip work digging,all,1234567890,NULL,NULL,500,NULL,NULL,NULL
+6,2025-02-22 00:00:00.000,7.5,NA,Male,temple land,drip work digging,all,1234567890,NULL,NULL,500,NULL,NULL,NULL
+5,2025-02-21 00:00:00.000,5.0,NA,Male,temple land,drip work digging,all,123456789,NULL,NULL,500,NULL,NULL,NULL
+4,2025-02-20 00:00:00.000,4.0,NA,Male,temple land,drip work digging,all,123456789,NULL,NULL,500,NULL,NULL,NULL
+3,2025-02-19 00:00:00.000,5.0,NA,Male,badava,"canal border work +coco tress curves ",coco,123456789,NULL,NULL,500,NULL,NULL,NULL
+2,2025-02-18 00:00:00.000,2.0,NA,Male,badava,coco tree curves,coco,123456789,NULL,NULL,500,NULL,NULL,NULL
+1,2025-02-17 00:00:00.000,4.0,NA,Male,badava," weed spray",weed,123456789,NULL,NULL,500,sprayers 2,100,no comments
+78,2025-02-14 00:00:00.000,5.0,NA,male,badava,spray,all,1234567890,NULL,NULL,500,NULL,NULL,NULL
+76,2025-02-12 00:00:00.000,5.0,NA,male,badava,spray+clean,all,1234567890,NULL,NULL,500,NULL,NULL,cap 4 inch-1
+75,2025-02-11 00:00:00.000,3.0,NA,male,badava,spray,all,1234567890,NULL,NULL,500,NULL,NULL,NULL
+74,2025-02-10 00:00:00.000,3.0,NA,male,badava,spray,all,1234567890,NULL,NULL,500,NULL,NULL,NULL
+73,2025-02-08 00:00:00.000,2.0,NA,male,new bore land,bannana cut,bannana,1234567890,NULL,NULL,500,NULL,NULL,NULL
+72,2025-02-07 00:00:00.000,4.0,NA,male,new bore land,bannana cut,bannans,1234567890,NULL,NULL,500,NULL,NULL,NULL
+71,2025-02-06 00:00:00.000,4.0,NA,male,new bore land,spray+bannana cut,bannnana +all,1234567890,NULL,NULL,500,NULL,NULL,NULL
+77,2025-02-06 00:00:00.000,4.0,NA,male,badava,clean,all,1234567890,NULL,NULL,500,NULL,NULL,NULL
+70,2025-02-05 00:00:00.000,2.0,NA,male,new bore land,bannana cut,all,1234567890,NULL,NULL,500,NULL,NULL,cd hand hour
+69,2025-02-04 00:00:00.000,3.0,NA,male,new bore land,weed spray,all,1234567890,NULL,NULL,500,NULL,NULL,glomocin 2L+L
+68,2025-02-03 00:00:00.000,3.0,NA,male,new bore land,weed spray,all,1234567890,NULL,NULL,500,NULL,NULL,NULL
+105,2025-01-31 00:00:00.000,3.0,NA,male,new bore land,weed control,all,1234567890,NULL,NULL,500,NULL,NULL,NULL
+104,2025-01-30 00:00:00.000,2.0,NA,male,new bore land,weed spray,all,1234567890,NULL,NULL,500,NULL,NULL,NULL
+103,2025-01-29 00:00:00.000,1.0,NA,male,badava,bore repair,all,1234567890,NULL,NULL,500,NULL,NULL,NULL
+102,2025-01-28 00:00:00.000,1.0,NA,male,badava,weed,all,1234567890,NULL,NULL,500,NULL,NULL,NULL
+101,2025-01-27 00:00:00.000,3.0,NA,male,new bore land,weed spray,all,1234567890,NULL,NULL,500,NULL,NULL,5L-1-gromoxin
+100,2025-01-25 00:00:00.000,3.0,NA,male,badava,pepper+spray+pipe work,pepper+all+all,1234567890,NULL,NULL,500,NULL,NULL,NULL
+99,2025-01-24 00:00:00.000,3.5,NA,male,temple land,pepper gaps,pepper,1234567890,NULL,NULL,500,NULL,NULL,balu left
+98,2025-01-23 00:00:00.000,6.0,NA,male,temple land +badava,spray+pepper planting,all+pepper,1234567890,NULL,NULL,500,NULL,NULL,NULL
+97,2025-01-22 00:00:00.000,4.0,NA,male,temple land,spray+pepper planting,all+pepper,1234567890,NULL,NULL,500,NULL,NULL,NULL
+962,2025-01-21 00:00:00.000,2.0,NA,male,new bore land,spray,all,1234567890,NULL,NULL,500,NULL,NULL,NULL
+95,2025-01-20 00:00:00.000,2.5,NA,male,new bore land,NA,digging,1234567890,NULL,NULL,500,NULL,NULL,dha-1/2+k.r
+92,2025-01-18 00:00:00.000,3.0,NA,male,new bore land,digging,all,1234567890,NULL,NULL,500,NULL,NULL,NULL
+91,2025-01-17 00:00:00.000,3.0,NA,male,temple land,pepper plants,pepper,1234567890,NULL,NULL,500,NULL,NULL,NULL
+90,2025-01-16 00:00:00.000,2.0,NA,male,badava+temple land,pepper plants+digging,pepper,1234567890,NULL,NULL,500,NULL,NULL,NULL
+89,2025-01-15 00:00:00.000,4.0,NA,male,badava,cheak pepper,pepper,1234567890,NULL,NULL,500,NULL,NULL,NULL
+88,2025-01-14 00:00:00.000,4.0,NA,male,badava,cheak pepper,pepper,1234567890,NULL,NULL,500,NULL,NULL,NULL
+87,2025-01-13 00:00:00.000,4.0,NA,male,temple land +new bore land,pepper plants +digging,pepper+all,1234567890,NULL,NULL,500,NULL,NULL,NULL
+86,2025-01-11 00:00:00.000,4.0,NA,male," badava+temple land",plant unload+pepper planting,pepper,1234567890,NULL,NULL,500,NULL,NULL,NULL
+85,2025-01-10 00:00:00.000,6.0,NA,male,badava,plant unload,all,1234567890,NULL,NULL,500,NULL,NULL,NULL
+84,2025-01-09 00:00:00.000,6.0,NA,male,badava,plant unload,all,1234567890,NULL,NULL,500,NULL,NULL,NULL
+83,2025-01-08 00:00:00.000,5.0,NA,male,temple land,planting and loading,all,1234567890,NULL,NULL,500,NULL,NULL,NULL
+82,2025-01-07 00:00:00.000,8.0,NA,male,badava+temple land,digging+planting,all,1234567890,NULL,NULL,500,NULL,NULL,NULL
+81,2025-01-06 00:00:00.000,5.0,NA,male,badava,digging,all,1234567890,NULL,NULL,500,NULL,NULL,NULL
+80,2025-01-03 00:00:00.000,6.0,NA,male,temple land,ppper digging +pavan spray,pepper+all,1234567890,NULL,NULL,500,NULL,NULL,"gromoxin 5L-1 ,24D-2"
+132,2024-12-31 00:00:00.000,1.0,NA,male,temple land,pepper digging,pepper,1234567890,NULL,NULL,500,NULL,NULL,NULL
+131,2024-12-30 00:00:00.000,2.0,NA,male,temple land,pepper+holes,pepper+all,1234567890,NULL,NULL,500,NULL,NULL,NULL
+130,2024-12-26 00:00:00.000,2.0,NA,male,new bore land,drip closes,all,1234567890,NULL,NULL,500,NULL,NULL,NULL
+129,2024-12-25 00:00:00.000,2.0,NA,male,new bore land,drip closes,all,1234567890,NULL,NULL,500,NULL,NULL,NULL
+128,2024-12-24 00:00:00.000,2.0,NA,male,badava,plants clean,all,1234567890,NULL,NULL,500,NULL,NULL,NULL
+127,2024-12-21 00:00:00.000,2.0,NA,male,badava,border clean+jaael clean,all,1234567890,NULL,NULL,500,NULL,NULL,NULL
+126,2024-12-20 00:00:00.000,2.0,NA,male,badava,border clean,all\,1234567890,NULL,NULL,500,NULL,NULL,NULL
+125,2024-12-19 00:00:00.000,2.0,NA,male,badava,border clean,all,1234567890,NULL,NULL,500,NULL,NULL,NULL
+124,2024-12-18 00:00:00.000,3.0,NA,male,new bore land,drip work,all,1234567890,NULL,NULL,500,NULL,NULL,NULL
+123,2024-12-17 00:00:00.000,3.0,NA,male,new bore land,drip work,all,1234567890,NULL,NULL,500,NULL,NULL,NULL
+122,2024-12-16 00:00:00.000,3.0,NA,male,new bore land,drip work,all,1234567890,NULL,NULL,500,NULL,NULL,4 INCHES END CAP-1
+121,2024-12-14 00:00:00.000,3.0,NA,male,new bore land,drip setup,all,1234567890,NULL,NULL,500,NULL,NULL,"half day,dhavid auto"
+120,2024-12-13 00:00:00.000,2.0,NA,male,new bore land,drip setup,all,1234567890,NULL,NULL,700,NULL,NULL,full stay
+119,2024-12-12 00:00:00.000,5.0,NA,male,new bore land,drip digging,all,1234567890,NULL,NULL,500,NULL,NULL,weed spray pavan -2
+118,2024-12-11 00:00:00.000,5.0,NA,male,new bore land,drip digging,all,1234567890,NULL,NULL,500,NULL,NULL,NULL
+117,2024-12-10 00:00:00.000,5.0,NA,male,new bore land,drip digging,all,1234567890,NULL,NULL,500,NULL,NULL,NULL
+116,2024-12-09 00:00:00.000,5.0,NA,male,new bore land,drip digging,all,1234567890,NULL,NULL,500,NULL,NULL,NULL
+115,2024-12-07 00:00:00.000,3.0,NA,male,new bore land,drip digging,all,1234567890,NULL,NULL,500,NULL,NULL,NULL
+114,2024-12-06 00:00:00.000,2.0,NA,male,new bore land,weedssprat,all,1234567890,NULL,NULL,500,NULL,NULL,gromoxin 5L-1
+111,2024-12-05 00:00:00.000,3.0,NA,male,new bore land,spray,all,1234567890,NULL,NULL,500,NULL,NULL,NULL
+109,2024-12-04 00:00:00.000,3.0,NA,male,new bore land,digging,all,1234567890,NULL,NULL,500,NULL,NULL,NULL
+110,2024-12-04 00:00:00.000,3.0,NA,female,new bore land,weed,all,1234567890,NULL,NULL,250,NULL,NULL,NULL
+108,2024-12-03 00:00:00.000,3.0,NA,male,new bore land,digging,all,1234567890,NULL,NULL,500,NULL,NULL,NULL
+106,2024-12-02 00:00:00.000,3.0,NA,male,new bore land,digging,all,1234567890,NULL,NULL,500,NULL,NULL,NULL
+107,2024-12-02 00:00:00.000,2.0,NA,female,new bore land,weed,all,1234567890,NULL,NULL,250,NULL,NULL,NULL
+161,2024-11-30 00:00:00.000,3.0,NA,male,new bore land+temple land,fertilizer pour+areca clean,all,1234567890,NULL,NULL,500,NULL,NULL,NULL
+162,2024-11-30 00:00:00.000,3.0,NA,female,badava,areca clean+fertilizer pour,all,1234567890,NULL,NULL,250,NULL,NULL,NULL
+160,2024-11-29 00:00:00.000,3.0,NA,male,new bore land,fertilizer pour +areca clean,all,1234567890,NULL,NULL,500,NULL,NULL,NULL
+158,2024-11-28 00:00:00.000,3.0,"dhavidu,raju,kishore",male,new bore land,"areac clean,fertilizer pour",all,1234567890,NULL,NULL,500,NULL,NULL,NULL
+159,2024-11-28 00:00:00.000,2.0,NA,female,badava,fertilizer pour +raeca clean,all,1234567890,NULL,NULL,250,NULL,NULL,NULL
+156,2024-11-27 00:00:00.000,3.0,"dhavidu,raju,kishore",male,new bore land+temple land,fertilizer pour+clean areca,all,1234567890,NULL,NULL,500,NULL,NULL,NULL
+157,2024-11-27 00:00:00.000,2.0,NA,female,badava,areca clean +fertilizer pour,all,1234567890,NULL,NULL,250,NULL,NULL,NULL
+154,2024-11-26 00:00:00.000,1.0,NA,male,new bore land,fertilizer pour +clean areca,all,1234567890,NULL,NULL,500,NULL,NULL,gromoxin-1
+155,2024-11-26 00:00:00.000,3.0,NA,female,new bore land,fertilizer pour +clean areca,all,1234567890,NULL,NULL,250,NULL,NULL,NULL
+152,2024-11-25 00:00:00.000,1.0,NA,male,new bore land,fertilizer pour +clean areca,all,1234567890,NULL,NULL,500,NULL,NULL,dhavidu left at 9:15
+153,2024-11-25 00:00:00.000,3.0,NA,female,new bore land,frtilizer pour +clean areca,all,1234567890,NULL,NULL,500,NULL,NULL,NULL
+150,2024-11-23 00:00:00.000,2.0,NA,male,new bore land,fertilizer pour +areca,all,1234567890,NULL,NULL,500,NULL,NULL,NULL
+151,2024-11-23 00:00:00.000,2.0,NA,female,new bore land,clean areca +fertilizer pour,all,1234567890,NULL,NULL,500,NULL,NULL,NULL
+149,2024-11-22 00:00:00.000,2.0,NA,male,temple land,fertilizer pour+clean areca,all,1234567890,NULL,NULL,500,NULL,NULL,NULL
+148,2024-11-21 00:00:00.000,2.0,NA,male,temple land,fertilizer pour,all,1234567890,NULL,NULL,500,NULL,NULL,NULL
+147,2024-11-20 00:00:00.000,2.0,NA,male,temple land,hole digging +fertiliser load,all,1234567890,NULL,NULL,500,NULL,NULL,NULL
+146,2024-11-19 00:00:00.000,2.0,NA,male,temple land,hole digging +fertiliser load,all,1234567890,NULL,NULL,500,NULL,NULL,NULL
+145,2024-11-16 00:00:00.000,2.0,NA,male,temple land,holes digging areca,areca,1234567890,NULL,NULL,500,NULL,NULL,NULL
+144,2024-11-15 00:00:00.000,2.0,NA,male,temple land,care+drum digging,all,1234567890,NULL,NULL,500,NULL,NULL,NULL
+142,2024-11-14 00:00:00.000,2.0,NA,male,badava,drip work,all,1234567890,NULL,NULL,500,NULL,NULL,NULL
+141,2024-11-13 00:00:00.000,2.0,"devaraju,raju",male,badava,drip,all,1234567890,NULL,NULL,500,NULL,NULL,NULL
+140,2024-11-12 00:00:00.000,1.0,NA,Male,badava,drip,all,1234567890,NULL,NULL,500,NULL,NULL,NULL
+138,2024-11-11 00:00:00.000,2.0,NA,male,badava,drip check,all,1234567890,NULL,NULL,500,NULL,NULL,NULL
+139,2024-11-09 00:00:00.000,3.0,NA,male,badava,drip check,all,1234567890,NULL,NULL,500,NULL,NULL,NULL
+137,2024-11-08 00:00:00.000,3.0,NA,male,badava,drip check,all,1234567890,NULL,NULL,500,NULL,NULL,NULL
+136,2024-11-07 00:00:00.000,3.0,NA,male,badava,drum+gap filling+coconut,all,1234567890,NULL,NULL,500,NULL,NULL,NULL
+135,2024-11-06 00:00:00.000,3.0,NA,male,badava,drum+root clear,all,1234567890,NULL,NULL,500,NULL,NULL,NULL
+134,2024-11-05 00:00:00.000,2.0,NA,male,new bore land,weed +coco spray,all+coco,1234567890,NULL,NULL,500,NULL,NULL,NULL
+113,2024-11-05 00:00:00.000,3.0,NA,female,new bore land,weed,all,1234567890,NULL,NULL,250,NULL,NULL,NULL
+133,2024-11-04 00:00:00.000,2.0,NA,male,new bore land,weed+bannana plants,all,1234567890,NULL,NULL,500,NULL,NULL,1 sprayer
+961,2024-10-28 00:00:00.000,3.0,NA,male,new bore land,weed spray,all,1234567890,NULL,NULL,500,NULL,NULL,"1 spray ,2+3 pavan"
+992,2024-10-26 00:00:00.000,3.0,NA,male,new bore land,bannana digg+weed spray,all,1234567890,NULL,NULL,500,NULL,NULL,NULL
+959,2024-10-25 00:00:00.000,2.0,NA,male,new bore land,bannana digg,bannana,1234567890,NULL,NULL,500,NULL,NULL,NULL
+990,2024-10-24 00:00:00.000,2.0,NA,male,new bore land,bannana digg,bannana,1234567890,NULL,NULL,500,NULL,NULL,NULL
+957,2024-10-23 00:00:00.000,2.0,NA,male,new bore land,fertilizer+bannana dig,all,1234567890,NULL,NULL,500,NULL,NULL,NULL
+988,2024-10-22 00:00:00.000,2.0,"raju malli,ramesh pantula",male,new bore land,bannana cut,bannana,1234567890,NULL,NULL,500,NULL,NULL,NULL
+955,2024-10-21 00:00:00.000,2.0,NA,male,new bore land,bannana cut,bannana,1234567890,NULL,NULL,500,NULL,NULL,"gromoxin-10lit 5l-siva ,24-d-2-pavan"
+986,2024-10-19 00:00:00.000,2.0,NA,male,badava,border clean+creeper,border plants +creeper,1234567890,NULL,NULL,500,NULL,NULL,NULL
+953,2024-10-18 00:00:00.000,2.0,NA,male,badava,border plannts clean,border plants,1234567890,NULL,NULL,500,NULL,NULL,NULL
+984,2024-10-17 00:00:00.000,2.0,NA,male,badava,coconut skin clear,coconut,1234567890,NULL,NULL,500,NULL,NULL,NULL
+951,2024-10-16 00:00:00.000,2.0,NA,male,badava,coconut skin clear,coconut,1234567890,NULL,NULL,500,NULL,NULL,NULL
+982,2024-10-12 00:00:00.000,2.0,"raju malli,ramesh pantula",male,new bore land,weed spray+mono pray,all,1234567890,NULL,NULL,500,NULL,NULL,NULL
+949,2024-10-11 00:00:00.000,2.0,NA,male,new bore land,weed spray,all,1234567890,NULL,NULL,500,NULL,NULL,6-4t gromoxin -1 spray
+980,2024-10-10 00:00:00.000,3.0,NA,male,new bore land,weed spray,all,1234567890,NULL,NULL,500,NULL,NULL,"2-spray,1-spray"
+947,2024-10-09 00:00:00.000,2.0,NA,male,new bore land,weed spray,all,1234567890,NULL,NULL,500,NULL,NULL,"gromoxinn 5ltr,  1 spray"
+978,2024-10-08 00:00:00.000,4.0,NA,male,badava,coconut clean+drip,all,1234567890,NULL,NULL,500,NULL,NULL,NULL
+945,2024-10-07 00:00:00.000,2.0,NA,male,temple land,coconut adugule,all,1234567890,NULL,NULL,500,NULL,NULL,NULL
+976,2024-10-05 00:00:00.000,2.0,NA,male,badava,drip,all,1234567890,NULL,NULL,500,NULL,NULL,NULL
+943,2024-10-04 00:00:00.000,4.0,NA,male,badava,drip,all,1234567890,NULL,NULL,500,NULL,NULL,NULL
+974,2024-10-03 00:00:00.000,3.5,"kishore, raju, jayaraju",male,badava,coco plantation,coco,1234567890,NULL,NULL,500,NULL,NULL,NULL
+941,2024-10-02 00:00:00.000,4.0,NA,male,badava,coco plantation,coco,1234567890,NULL,NULL,500,NULL,NULL,NULL
+1011,2024-09-30 00:00:00.000,5.0,NA,male,badava,coco plantation,coco,1234567890,NULL,NULL,500,NULL,NULL,NULL
+939,2024-09-28 00:00:00.000,4.0,NA,male,new bore land,weed,all,1234567890,NULL,NULL,500,NULL,NULL,NULL
+1009,2024-09-24 00:00:00.000,4.0,NA,male,badava,areca plantation,areca,1234567890,NULL,NULL,500,NULL,NULL,NULL
+937,2024-09-23 00:00:00.000,4.0,NA,male,badava,drip ladders adjust,all,1234567890,NULL,NULL,500,NULL,NULL,NULL
+1007,2024-09-21 00:00:00.000,5.0,NA,male,badava,vakka plantation,vakka,1234567890,NULL,NULL,500,NULL,NULL,NULL
+935,2024-09-20 00:00:00.000,3.0,NA,male,badava,ladders,all,1234567890,NULL,NULL,500,NULL,NULL,dhavidu auto- badava -meriam 600-300 vakka-300 coco
+1005,2024-09-19 00:00:00.000,3.0,NA,male,badava,ladders,all,1234567890,NULL,NULL,500,NULL,NULL,NULL
+933,2024-09-18 00:00:00.000,3.0,"dhavidu,deva raju,krupa raju",male,badava,ladders,all,1234567890,NULL,NULL,500,NULL,NULL,NULL
+1003,2024-09-17 00:00:00.000,2.0,"krupa raju ,devaraju",male,badava,vakka plantation,vakka,1234567890,NULL,NULL,500,NULL,NULL,NULL
+931,2024-09-16 00:00:00.000,3.5,NA,male,badava,clean coconut,coconut,1234567890,NULL,NULL,500,NULL,NULL,NULL
+1002,2024-09-15 00:00:00.000,3.5,NA,male,badava,coconut clean,coconut,1234567890,NULL,NULL,500,NULL,NULL,dhavidu auto 100 plants
+929,2024-09-14 00:00:00.000,3.0,"dhavidu ,kishore,devaraju",male,badava,soil work,all,1234567890,NULL,NULL,500,NULL,NULL,NULL
+999,2024-09-13 00:00:00.000,5.0,NA,male,badava,vakka plantation,vakka,1234567890,NULL,NULL,500,NULL,NULL,NULL
+927,2024-09-12 00:00:00.000,5.0,NA,male,badava,vakka plantation,vakka,1234567890,NULL,NULL,500,NULL,NULL,NULL
+997,2024-09-11 00:00:00.000,2.0,NA,male,badava,vakka plantation,vakka,1234567890,NULL,NULL,500,NULL,NULL,NULL
+925,2024-09-07 00:00:00.000,5.0,NA,male,badava,vakka plantation,vakka,1234567890,NULL,NULL,500,NULL,NULL,NULL
+995,2024-09-06 00:00:00.000,4.0,NA,male,new bore land,bannana cut+mono spray,all,1234567890,NULL,NULL,500,NULL,NULL,NULL
+923,2024-09-05 00:00:00.000,5.0,NA,male,new bore land,bannana cut,bannana,1234567890,NULL,NULL,500,NULL,NULL,NULL
+1028,2024-08-30 00:00:00.000,3.0,"dhavidu,jaya raju,krupa raju",male,badava,vakka plantation,vakka,1234567890,NULL,NULL,500,NULL,NULL,NULL
+921,2024-08-28 00:00:00.000,2.0,NA,male,badava,border clean,all,1234567890,NULL,NULL,500,NULL,NULL,NULL
+1026,2024-08-27 00:00:00.000,3.0,NA,male,badava,clean border,all,1234567890,NULL,NULL,500,NULL,NULL,vakka transport kannur-dhavidu auto temple land -badava-3 trips 600 plants
+919,2024-08-26 00:00:00.000,3.0,NA,male,new bore land+temple land,fretilizer feed-npk,all,1234567890,NULL,NULL,500,NULL,NULL,NULL
+1024,2024-08-24 00:00:00.000,2.0,NA,male,new bore land,fertilizer feed-npk,all,1234567890,NULL,NULL,500,NULL,NULL,NULL
+1022,2024-08-22 00:00:00.000,1.0,NA,male,badava,ladder,all,1234567890,NULL,NULL,500,NULL,NULL,unload at temple land -3 persons
+917,2024-08-22 00:00:00.000,1.0,dhavidu,male,temple land,areca plants tranportation by auto,areca,1234567890,NULL,NULL,1300,NULL,NULL,mirthipadu to temple land -800 plants
+915,2024-08-21 00:00:00.000,2.0,NA,male,badava,ladder,all,1234567890,NULL,NULL,500,NULL,NULL,NULL
+1020,2024-08-20 00:00:00.000,2.0,NA,male,badava,ladder,all,1234567890,NULL,NULL,500,NULL,NULL,NULL
+913,2024-08-19 00:00:00.000,2.0,NA,male,badava,ladder,all,1234567890,NULL,NULL,500,NULL,NULL,NULL
+1018,2024-08-17 00:00:00.000,3.0,NA,male,badava,areca care,areca,1234567890,NULL,NULL,500,NULL,NULL,NULL
+911,2024-08-16 00:00:00.000,3.0,NA,male,badava,areca plantation,areca,1234567890,NULL,NULL,500,NULL,NULL,NULL
+1016,2024-08-15 00:00:00.000,3.0,NA,male,badava,areca planting,areca,1234567890,NULL,NULL,500,NULL,NULL,NULL
+909,2024-08-14 00:00:00.000,3.0,NA,male,badava,areca planting,areca,1234567890,NULL,NULL,500,NULL,NULL,dhavidu auto kmd
+1014,2024-08-13 00:00:00.000,3.0,NA,male,new bore land,fertilizer loading +bannana gap fill,all,1234567890,NULL,NULL,500,NULL,NULL,"auto kmd-temple land ,new bore land dhavid  kmdps-"
+907,2024-08-07 00:00:00.000,2.0,NA,male,new bore land,janumu+areca 95 plantation,"janumu,areca",1234567890,NULL,NULL,500,NULL,NULL,NULL
+1012,2024-08-06 00:00:00.000,3.0,NA,male,new bore land,janumu seeding,janumu,1234567890,NULL,NULL,500,NULL,NULL,NULL
+905,2024-07-31 00:00:00.000,2.0,NA,male,temple land,plant care,all,1234567890,NULL,NULL,500,NULL,NULL,NULL
+1047,2024-07-30 00:00:00.000,2.0,NA,male,new bore land,weed spray,all,1234567890,NULL,NULL,500,NULL,50,1-spray
+903,2024-07-29 00:00:00.000,3.0,NA,male,new bore land,weed spray,all,1234567890,NULL,NULL,500,NULL,NULL,ramesh 1 hour late
+1045,2024-07-27 00:00:00.000,3.0,NA,male,new bore land,coco plantation,coco,1234567890,NULL,NULL,500,NULL,NULL,NULL
+901,2024-07-26 00:00:00.000,3.0,NA,male,new bore land,coco plantation,coco,1234567890,NULL,NULL,500,NULL,NULL,NULL
+1043,2024-07-25 00:00:00.000,3.0,NA,male,new bore land,coco plantation,coco,1234567890,NULL,NULL,500,NULL,NULL,NULL
+899,2024-07-24 00:00:00.000,3.0,NA,male,new bore land,weed spray,all,1234567890,NULL,NULL,500,NULL,NULL,NULL
+1041,2024-07-23 00:00:00.000,2.0,NA,male,new bore land,weed spray,all,1234567890,NULL,NULL,500,NULL,NULL,NULL
+897,2024-07-17 00:00:00.000,3.0,NA,male,new bore land,coconut care,coconut,1234567890,NULL,NULL,500,NULL,NULL,bommuru coco plants 800
+1039,2024-07-16 00:00:00.000,2.0,NA,male,new bore land,weed spray,all,1234567890,NULL,NULL,500,NULL,NULL,NULL
+895,2024-07-15 00:00:00.000,3.0,NA,male,new bore land,holes+areca adjust,all,1234567890,NULL,NULL,500,NULL,NULL,NULL
+1037,2024-07-11 00:00:00.000,2.0,NA,male,new bore land,border clean,all,1234567890,NULL,NULL,500,NULL,NULL,NULL
+893,2024-07-10 00:00:00.000,2.0,NA,male,new bore land,border clean,all,1234567890,NULL,NULL,500,NULL,NULL,24 plants digged
+1035,2024-07-09 00:00:00.000,3.0,NA,male,new bore land,border clean,all,1234567890,NULL,NULL,500,NULL,NULL,NULL
+891,2024-07-08 00:00:00.000,4.0,NA,male,temple land,pruning,all,1234567890,NULL,NULL,500,NULL,NULL,NULL
+1029,2024-07-06 00:00:00.000,7.0,NA,male,temple land,coco pruning,coco,1234567890,NULL,NULL,500,NULL,NULL,NULL
+889,2024-07-05 00:00:00.000,3.0,NA,male,new bore land,bannana cut +border clean,all,1234567890,NULL,NULL,500,NULL,NULL,NULL
+1033,2024-07-04 00:00:00.000,3.0,NA,male,new bore land,bannana cut,bannana,1234567890,NULL,NULL,500,NULL,NULL,NULL
+887,2024-07-03 00:00:00.000,2.0,NA,male,new bore land,bannana cut,bannana,1234567890,NULL,NULL,500,NULL,NULL,NULL
+1031,2024-07-02 00:00:00.000,2.0,NA,male,new bore land," bannana cut"," bannana",1234567890,NULL,NULL,500,NULL,NULL,NULL
+1065,2024-06-29 00:00:00.000,2.0,NA,male,new bore land,bannana cut,bannana,1234567890,NULL,NULL,500,NULL,NULL,NULL
+1064,2024-06-28 00:00:00.000,3.0,NA,male,new bore land,bannana cut,bannana,1234567890,NULL,NULL,500,NULL,NULL,NULL
+1063,2024-06-27 00:00:00.000,3.0,NA,male,new bore land,bannana tree cut,bannana,1234567890,NULL,NULL,500,NULL,NULL,NULL
+1062,2024-06-26 00:00:00.000,3.0,NA,male,badava,motor  +jamael fire,all,1234567890,NULL,NULL,500,NULL,NULL,"24d-1gromoxin 5l-1,"
+1061,2024-06-25 00:00:00.000,3.0,NA,male,badava,proning coco,coco,1234567890,NULL,NULL,500,NULL,NULL,NULL
+1060,2024-06-21 00:00:00.000,2.0,NA,male,badava,coco pruning,coco,1234567890,NULL,NULL,500,NULL,NULL,NULL
+1059,2024-06-20 00:00:00.000,2.0,NA,male,badava,coco proning,coco,1234567890,NULL,NULL,500,NULL,NULL,NULL
+1058,2024-06-18 00:00:00.000,2.0,NA,male,badava,coco proning,coco,1234567890,NULL,NULL,500,NULL,NULL,NULL
+1057,2024-06-17 00:00:00.000,2.0,NA,male,badava,janumu,janumu,1234567890,NULL,NULL,500,NULL,NULL,NULL
+1056,2024-06-15 00:00:00.000,1.0,dhavidu,male,badava,coco,coco,1234567890,NULL,NULL,500,NULL,NULL,NULL
+1055,2024-06-14 00:00:00.000,2.0,NA,male,badava,coco,coco,1234567890,NULL,NULL,500,NULL,NULL,NULL
+1054,2024-06-13 00:00:00.000,2.0,NA,male,temple land +badava,coco,coco,1234567890,NULL,NULL,500,NULL,NULL,NULL
+1053,2024-06-12 00:00:00.000,2.0,NA,male,temple land,coco,coco,1234567890,NULL,NULL,500,NULL,NULL,NULL
+1052,2024-06-11 00:00:00.000,2.0,NA,male,badava,coco cut,coco,1234567890,NULL,NULL,500,NULL,NULL,NULL
+1051,2024-06-10 00:00:00.000,2.0,NA,male,badava,coco cut,coco,1234567890,NULL,NULL,500,NULL,NULL,NULL
+1050,2024-06-07 00:00:00.000,1.0,NA,male,badava,coco,coco,1234567890,NULL,NULL,500,NULL,NULL,NULL
+1049,2024-06-06 00:00:00.000,1.0,NA,male,badava,coco,coco,1234567890,NULL,NULL,500,NULL,NULL,NULL
+1068,2024-06-05 00:00:00.000,1.0,NA,male,badava+temple land,motor dummy repair,all,1234567890,NULL,NULL,500,NULL,NULL,NULL
+1067,2024-06-04 00:00:00.000,1.0,NA,male,badava,coco,coco,1234567890,NULL,NULL,500,NULL,NULL,NULL
+1066,2024-06-03 00:00:00.000,1.0,NA,male,new bore land,spray,all,1234567890,NULL,NULL,500,NULL,NULL,NULL
+1090,2024-05-29 00:00:00.000,2.0,NA,male,new bore land,spray,all,1234567890,NULL,NULL,500,NULL,NULL,NULL
+1089,2024-05-28 00:00:00.000,2.0,NA,male,badava,spray,all,1234567890,NULL,NULL,500,NULL,NULL,NULL
+1088,2024-05-27 00:00:00.000,1.0,NA,male,badava,spray,all,1234567890,NULL,NULL,500,NULL,NULL,NULL
+1087,2024-05-25 00:00:00.000,2.0,NA,male,badava,weed spray,all,1234567890,NULL,NULL,500,NULL,NULL,24d-2
+1086,2024-05-24 00:00:00.000,2.0,NA,male,badava,weed spray,all,1234567890,NULL,NULL,500,NULL,NULL,NULL
+1085,2024-05-23 00:00:00.000,2.0,NA,male,badava,weed spray,all,1234567890,NULL,NULL,500,NULL,NULL,NULL
+1084,2024-05-22 00:00:00.000,2.0,NA,male,temple land weed spray,weed spray,all,1234567890,NULL,NULL,500,NULL,NULL,NULL
+1083,2024-05-21 00:00:00.000,2.0,NA,male,badava +temple land,coco cut,coco,1234567890,NULL,NULL,500,NULL,NULL,NULL
+1082,2024-05-20 00:00:00.000,2.0,NA,male,badava,coco  cut,coco,1234567890,NULL,NULL,500,NULL,NULL,NULL
+1081,2024-05-18 00:00:00.000,1.0,NA,male,badava,weed spray,all,1234567890,NULL,NULL,500,NULL,NULL,NULL
+1080,2024-05-17 00:00:00.000,2.0,NA,male,badava,coco cut,coco,1234567890,NULL,NULL,500,NULL,NULL,NULL
+1079,2024-05-16 00:00:00.000,2.0,NA,male,badava,coco cut,coco,1234567890,NULL,NULL,500,NULL,NULL,NULL
+1078,2024-05-15 00:00:00.000,2.0,NA,male,badava,weed spray,all,1234567890,NULL,NULL,500,NULL,NULL,gromoxin -5l-1+24d-2
+1077,2024-05-14 00:00:00.000,2.0,NA,male,badava,coco cut,coco,1234567890,NULL,NULL,500,NULL,NULL,NULL
+1076,2024-05-12 00:00:00.000,2.0,NA,male,badava,coco cut,coco,1234567890,NULL,NULL,500,NULL,NULL,half day
+1075,2024-05-10 00:00:00.000,2.0,NA,male,badava,coco cut,coco,1234567890,NULL,NULL,500,NULL,NULL,NULL
+1074,2024-05-09 00:00:00.000,2.0,NA,male,temple land,coco cut,coco,1234567890,NULL,NULL,500,NULL,NULL,NULL
+1073,2024-05-08 00:00:00.000,2.0,NA,male,temple land,weed spray +coco,all,1234567890,NULL,NULL,500,NULL,NULL,gromoxin 5l-1
+1072,2024-05-07 00:00:00.000,2.0,NA,male,new bore land+temple land,weed spray,all,1234567890,NULL,NULL,500,NULL,NULL,24d-2
+1071,2024-05-06 00:00:00.000,2.0,NA,male,new bore land,weed spray,all,1234567890,NULL,NULL,500,NULL,NULL,gromoxin 5l-1
+1070,2024-05-04 00:00:00.000,2.0,NA,male,new bore land,weed spray,all,1234567890,NULL,NULL,500,NULL,NULL,NULL
+1069,2024-05-03 00:00:00.000,2.0,NA,male,new bore land,weed spray,all,1234567890,NULL,NULL,500,NULL,NULL,NULL
+1198,2024-04-30 00:00:00.000,2.0,NA,male,new bore land,weed spray,all,1234567890,NULL,NULL,500,NULL,NULL,"gromoxin 5l,24d -2"
+1197,2024-04-29 00:00:00.000,2.0,NA,male,new bore land,bannana cut +katava,bannana,1234567890,NULL,NULL,500,NULL,NULL,NULL
+1196,2024-04-27 00:00:00.000,1.0,NA,male,new bore land,bannana cut,bannana,1234567890,NULL,NULL,500,NULL,NULL,NULL
+1195,2024-04-26 00:00:00.000,2.0,NA,male,new bore land,bannana cut,bannana,1234567890,NULL,NULL,500,NULL,NULL,NULL
+1194,2024-04-25 00:00:00.000,3.0,NA,male,new bore land,bannana cut,bannana,1234567890,NULL,NULL,500,NULL,NULL,NULL
+1193,2024-04-24 00:00:00.000,1.0,NA,male,temple land,coco cut,coco,1234567890,NULL,NULL,500,NULL,NULL,NULL
+1192,2024-04-23 00:00:00.000,2.0,NA,male,badava,coco cut,coco,1234567890,NULL,NULL,500,NULL,NULL,NULL
+1191,2024-04-20 00:00:00.000,3.0,NA,male,temple land +new bore land + badava,weed spray,all,1234567890,NULL,NULL,500,NULL,NULL,NULL
+1190,2024-04-19 00:00:00.000,3.0,NA,male,temple land + new bore land,coco+bannana cut,coco+bannana,1234567890,NULL,NULL,500,NULL,NULL,NULL
+1189,2024-04-17 00:00:00.000,3.0,NA,male,bdava,drip pipe fix,all,1234567890,NULL,NULL,500,NULL,NULL,NULL
+1188,2024-04-16 00:00:00.000,3.0,NA,male,temple land +new bore land,coco+bannana cut,coco+bannana,1234567890,NULL,NULL,500,NULL,NULL,NULL
+1187,2024-04-15 00:00:00.000,3.0,NA,male,temple land +new bore land,coco +bannana cut,coco+bannana,1234567890,NULL,NULL,500,NULL,NULL,NULL
+1186,2024-04-13 00:00:00.000,4.0,NA,male,badava+temple land,coco cut,coco,1234567890,NULL,NULL,500,NULL,NULL,NULL
+1185,2024-04-12 00:00:00.000,2.0,NA,male,new bore land,bannana tree cut,bannana,1234567890,NULL,NULL,500,NULL,NULL,NULL
+1184,2024-04-11 00:00:00.000,2.0,NA,male,new bore land,bannana tree cut,bannana,1234567890,NULL,NULL,500,NULL,NULL,NULL
+1183,2024-04-10 00:00:00.000,3.0,NA,male,new bore land,bannana tree cut,bannana,1234567890,NULL,NULL,500,NULL,NULL,NULL
+1182,2024-04-08 00:00:00.000,3.0,NA,male,new bore land,bannana tree cut,bannana,1234567890,NULL,NULL,500,NULL,NULL,NULL
+1181,2024-04-06 00:00:00.000,3.0,NA,male,badava,coconut trees cut,coconut,1234567890,NULL,NULL,500,NULL,NULL,NULL
+1180,2024-04-05 00:00:00.000,1.0,NA,male,badava,coconut tress cut,coconut,1234567890,NULL,NULL,500,NULL,NULL,NULL
+1179,2024-04-04 00:00:00.000,3.0,NA,male,badava,coconut trees cut,coconut,1234567890,NULL,NULL,500,NULL,NULL,NULL
+1178,2024-04-03 00:00:00.000,2.0,NA,male,badava,filling pipes,all,1234567890,NULL,NULL,500,NULL,NULL,NULL
+1177,2024-04-02 00:00:00.000,3.0,NA,male,badava,coco+filling,all,1234567890,NULL,NULL,500,NULL,NULL,NULL
+1176,2024-03-30 00:00:00.000,2.0,NA,male,badava +temple land,coco +coco,coco,1234567890,NULL,NULL,500,NULL,NULL,NULL
+1175,2024-03-28 00:00:00.000,3.0,NA,male,badava,fill pipes,all,1234567890,NULL,NULL,500,NULL,NULL,NULL
+1174,2024-03-27 00:00:00.000,2.0,NA,male,badava,fill pipes,all,1234567890,NULL,NULL,500,NULL,NULL,NULL
+1173,2024-03-26 00:00:00.000,2.0,NA,male,badava,drip work,all,1234567890,NULL,NULL,500,NULL,NULL,NULL
+1172,2024-03-25 00:00:00.000,2.0,NA,male,badava,drip work,all,1234567890,NULL,NULL,500,NULL,NULL,NULL
+1171,2024-03-23 00:00:00.000,2.0,NA,male,badava,drip work,all,1234567890,NULL,NULL,500,NULL,NULL,NULL
+1170,2024-03-22 00:00:00.000,2.0,NA,male,temple land +badava,coco+drip work,all,1234567890,NULL,NULL,500,NULL,NULL,NULL
+1169,2024-03-21 00:00:00.000,2.0,NA,male,temple land,coco,coco,1234567890,NULL,NULL,500,NULL,NULL,NULL
+1168,2024-03-20 00:00:00.000,2.0,NA,male,badava,drip work,all,1234567890,NULL,NULL,500,NULL,NULL,auto to home -300
+1167,2024-03-19 00:00:00.000,2.0,NA,male,badava,drip work,all,1234567890,NULL,NULL,500,NULL,NULL,NULL
+1166,2024-03-18 00:00:00.000,4.0,NA,male,badava,drip work + border,all,1234567890,NULL,NULL,500,NULL,NULL,NULL
+1165,2024-03-16 00:00:00.000,2.0,NA,male,badava,drip work +coco,all,1234567890,NULL,NULL,500,NULL,NULL,NULL
+1164,2024-03-15 00:00:00.000,3.0,NA,male,badava,drip work,all,1234567890,NULL,NULL,500,NULL,NULL,NULL
+1163,2024-03-14 00:00:00.000,3.0,NA,male,badava,drip work,all,1234567890,NULL,NULL,700,NULL,NULL,full day
+1162,2024-03-13 00:00:00.000,2.0,NA,male,badava,drip work,all,1234567890,NULL,NULL,500,NULL,NULL,NULL
+1161,2024-03-12 00:00:00.000,4.0,NA,male,badava,drip work,all,1234567890,NULL,NULL,500,NULL,NULL,NULL
+1160,2024-03-11 00:00:00.000,2.0,NA,male,badava,drip work,all,1234567890,NULL,NULL,700,NULL,NULL,full day
+1159,2024-03-09 00:00:00.000,3.0,NA,male,badava,drip work,all,1234567890,NULL,NULL,500,NULL,NULL,NULL
+1158,2024-03-08 00:00:00.000,4.0,NA,male,badava,drip work,all,1234567890,NULL,NULL,500,NULL,NULL,NULL
+1157,2024-03-07 00:00:00.000,3.5,NA,male,badava,drip work,all,1234567890,NULL,NULL,700,NULL,NULL,ramesh half day+full day all
+1156,2024-03-05 00:00:00.000,3.0,NA,male,badava,coco+pipework,all,1234567890,NULL,NULL,500,NULL,NULL,NULL
+1155,2024-03-04 00:00:00.000,5.0,NA,male,badava,pipework +coco,all,1234567890,NULL,NULL,500,NULL,NULL,NULL
+1154,2024-03-02 00:00:00.000,4.0,NA,male,badava,pipeline +coco,all,1234567890,NULL,NULL,500,NULL,NULL,NULL
+1153,2024-02-29 00:00:00.000,4.0,NA,male,badava,pipeline +coco,all,1234567890,NULL,NULL,500,NULL,NULL,NULL
+1152,2024-02-28 00:00:00.000,2.0,NA,male,badava,pipeline +coco,all,1234567890,NULL,NULL,500,NULL,NULL,NULL
+1151,2024-02-27 00:00:00.000,4.0,NA,male,badava,pipeline +coco,all,1234567890,NULL,NULL,500,NULL,NULL,NULL
+1150,2024-02-26 00:00:00.000,2.0,NA,male,badava,spray,all,1234567890,NULL,NULL,500,NULL,NULL,NULL
+1149,2024-02-24 00:00:00.000,2.0,NA,male,badava,spray,all,1234567890,NULL,NULL,500,NULL,NULL,NULL
+1148,2024-02-23 00:00:00.000,2.0,NA,male,badava,spray,all,1234567890,NULL,NULL,500,NULL,NULL,gromoxin -5l-1+swaf-1/2-1
+1147,2024-02-21 00:00:00.000,2.0,NA,male,badava,spray,all,1234567890,NULL,NULL,500,NULL,NULL,NULL
+1146,2024-02-20 00:00:00.000,1.0,NA,male,badava,spray,all,1234567890,NULL,NULL,500,NULL,NULL,NULL
+1145,2024-02-16 00:00:00.000,2.0,NA,male,new bore land,spray,all,1234567890,NULL,NULL,500,NULL,NULL,NULL
+1144,2024-02-15 00:00:00.000,2.0,NA,male,badava,spray,all,1234567890,NULL,NULL,500,NULL,NULL,NULL
+1143,2024-02-14 00:00:00.000,2.0,NA,male,badava,spray,all,1234567890,NULL,NULL,500,NULL,NULL,NULL
+1142,2024-02-13 00:00:00.000,2.0,NA,male,badava,spray,all,1234567890,NULL,NULL,500,NULL,NULL,NULL
+1141,2024-02-12 00:00:00.000,2.0,NA,male,temple land,coconut root pesticide,coconut ',1234567890,NULL,NULL,500,NULL,NULL,NULL
+1140,2024-02-10 00:00:00.000,3.0,NA,male,badava +temple land,spray +coconut,all,1234567890,NULL,NULL,500,NULL,NULL,NULL
+1139,2024-02-09 00:00:00.000,2.0,NA,male,temple land,spray,all,1234567890,NULL,NULL,500,NULL,NULL,NULL
+1138,2024-02-08 00:00:00.000,2.0,NA,male,temple land,spray,all,1234567890,NULL,NULL,500,NULL,NULL,NULL
+1137,2024-02-07 00:00:00.000,3.0,NA,male,temple land,spray +coconut root pesticide,all,1234567890,NULL,NULL,500,NULL,NULL,NULL
+1135,2024-02-06 00:00:00.000,2.0,NA,male,badava,drip work,all,1234567890,NULL,NULL,500,NULL,NULL,still evening
+1136,2024-02-06 00:00:00.000,2.0,NA,male,temple land,coconut root pesticide,coconut,1234567890,NULL,NULL,500,NULL,NULL,NULL
+1134,2024-02-05 00:00:00.000,2.0,NA,male,badava,coconut root pesticide,coconut,1234567890,NULL,NULL,500,NULL,NULL,NULL
+1133,2024-02-03 00:00:00.000,3.0,NA,male,badava,root coconut,coconut,1234567890,NULL,NULL,500,NULL,NULL,NULL
+1132,2024-01-31 00:00:00.000,3.0,NA,male,badava,"coco cut ,weed spray",all,1234567890,NULL,NULL,500,NULL,NULL,NULL
+1131,2024-01-30 00:00:00.000,3.0,NA,male,badava,"coco cut ,weed spray",all,1234567890,NULL,NULL,500,NULL,NULL,NULL
+1130,2024-01-27 00:00:00.000,1.0,NA,male,temple land,nutmug plantation,nutmug,1234567890,NULL,NULL,500,NULL,NULL,NULL
+792,2024-01-27 00:00:00.000,0.0,lawyer sandeep,Other,new bore lamd,syrvey 284/2 new bore land,NA,1234567890,0,0,0,,3000,NA
+1129,2024-01-26 00:00:00.000,3.0,NA,male,new bore land,bannana cut,bannana,1234567890,NULL,NULL,500,NULL,NULL,NULL
+1128,2024-01-25 00:00:00.000,3.0,NA,male,badava,coco trim,coco,1234567890,NULL,NULL,500,NULL,NULL,NULL
+1127,2024-01-24 00:00:00.000,4.0,NA,male,badava,bannana  cut,bannana,1234567890,NULL,NULL,500,NULL,NULL,NULL
+1126,2024-01-23 00:00:00.000,4.0,NA,male,badava,bannana cut +nutmug plantation,all,1234567890,NULL,NULL,500,NULL,NULL,NULL
+1125,2024-01-22 00:00:00.000,3.5,NA,male,badava,paara plants roots,all,1234567890,NULL,NULL,500,NULL,NULL,NULL
+1124,2024-01-18 00:00:00.000,3.0,NA,male,badava,paara plants roots,all,1234567890,NULL,NULL,500,NULL,NULL,NULL
+1123,2024-01-13 00:00:00.000,2.0,"dhavidu,raju",male,badava,paara plants roots,all,1234567890,NULL,NULL,500,NULL,NULL,NULL
+1122,2024-01-12 00:00:00.000,3.0,NA,male,badava,paara plants roots,all,1234567890,NULL,NULL,500,NULL,NULL,NULL
+1121,2024-01-11 00:00:00.000,3.0,NA,male,temple land,spray +planting,all,1234567890,NULL,NULL,500,NULL,NULL,NULL
+1120,2024-01-10 00:00:00.000,3.0,NA,male,new bore land +temple land,spray,all\,1234567890,NULL,NULL,500,NULL,NULL,NULL
+1119,2024-01-08 00:00:00.000,2.0,NA,male,badava,fertilizres,all,1234567890,NULL,NULL,500,NULL,NULL,NULL
+1118,2024-01-06 00:00:00.000,3.0,NA,male,new bore land,planting,all,1234567890,NULL,NULL,500,NULL,NULL,NULL
+1117,2024-01-05 00:00:00.000,2.0,NA,male,new bore land,planting,all,1234567890,NULL,NULL,500,NULL,NULL,NULL
+1116,2024-01-04 00:00:00.000,2.0,NA,male,new bore land,holes,all,1234567890,NULL,NULL,500,NULL,NULL,NULL
+1115,2023-12-30 00:00:00.000,2.0,NA,male,new bore land,spray,all,1234567890,NULL,NULL,500,NULL,NULL,NULL
+1114,2023-12-29 00:00:00.000,1.0,dhavidu,male,temple land,pepper plantation,pepper,1234567890,NULL,NULL,500,NULL,NULL,NULL
+1113,2023-12-26 00:00:00.000,2.0,NA,male,badava,spray,all,1234567890,NULL,NULL,500,NULL,NULL,NULL
+1112,2023-12-25 00:00:00.000,2.0,NA,male,badava,spray,all,1234567890,NULL,NULL,500,NULL,NULL,NULL
+1111,2023-12-24 00:00:00.000,2.0,NA,male,badava,spray,all,1234567890,NULL,NULL,500,NULL,NULL,NULL
+1110,2023-12-23 00:00:00.000,2.0,NA,male,badava,spray,all,1234567890,NULL,NULL,500,NULL,NULL,NULL
+1109,2023-12-22 00:00:00.000,2.0,NA,male,badava,spray,all,1234567890,NULL,NULL,500,NULL,NULL,NULL
+1108,2023-12-21 00:00:00.000,2.0,NA,male,badava,spray,all,1234567890,NULL,NULL,500,NULL,NULL,NULL
+1107,2023-12-19 00:00:00.000,2.0,NA,male,badava,spray,all,1234567890,NULL,NULL,500,NULL,NULL,NULL
+1106,2023-12-18 00:00:00.000,2.0,NA,male,badava,spray,all,1234567890,NULL,NULL,500,NULL,NULL,NULL
+1105,2023-12-15 00:00:00.000,2.0,"raju,balu",male,temple land,root strong,all,1234567890,NULL,NULL,500,NULL,NULL,NULL
+1104,2023-12-14 00:00:00.000,1.0,NA,male,temple land,root strong,all,1234567890,NULL,NULL,500,NULL,NULL,NULL
+1103,2023-12-13 00:00:00.000,2.0,"raju,balu",male,temple land,root strong,all,1234567890,NULL,NULL,500,NULL,NULL,NULL
+1102,2023-12-11 00:00:00.000,1.0,ramesh,male,new bore land,root strong,all,1234567890,NULL,NULL,500,NULL,NULL,NULL
+1101,2023-12-09 00:00:00.000,1.0,NA,male,badava +temple land,root strong,all,1234567890,NULL,NULL,500,NULL,NULL,NULL
+1100,2023-12-07 00:00:00.000,2.0,NA,male,new bore land+temple land,root strong,all,1234567890,NULL,NULL,500,NULL,NULL,NULL
+1099,2023-11-29 00:00:00.000,2.0,NA,male,badava,root strong,all,1234567890,NULL,NULL,500,NULL,NULL,NULL
+1098,2023-11-28 00:00:00.000,2.0,NA,male,badava,root strong,all,1234567890,NULL,NULL,500,NULL,NULL,NULL
+1097,2023-11-27 00:00:00.000,3.0,NA,male,badava,root strong,all,1234567890,NULL,NULL,500,NULL,NULL,NULL
+1096,2023-11-26 00:00:00.000,4.0,NA,male,badava,root strong,all,1234567890,NULL,NULL,500,NULL,NULL,NULL
+875,2023-11-26 00:00:00.000,0.0,vijay,Other,NA,worker charges,NA,1234567890,0,0,0,,12050,NA
+884,2023-11-25 00:00:00.000,0.0,devarapalli surya chnadram,Other,NA,Fertilisers,NA,1234567890,0,0,0,,15700,NA
+885,2023-11-19 00:00:00.000,0.0,vjay team,Other,NA,party,NA,1234567890,0,0,0,,1800,NA
+874,2023-11-18 00:00:00.000,0.0,vijay,Other,NA,worker charges,NA,1234567890,0,0,0,,17070,NA
+878,2023-11-16 00:00:00.000,0.0,chandu vaddliu,Other,NA,Tractor charges,NA,1234567890,0,0,0,,1000,NA
+877,2023-11-15 00:00:00.000,0.0,chekku kmd,Other,max-4*400,Pestisides,NA,1234567890,0,0,0,,1600,NA
+882,2023-11-14 00:00:00.000,0.0,chandu vaddliu,Other,NA,Tractor charges,NA,1234567890,0,0,0,,1500,NA
+883,2023-11-13 00:00:00.000,0.0,NA,Other,NA,rent bowels,NA,1234567890,0,0,0,,120,NA
+881,2023-11-12 00:00:00.000,0.0,devarapalli surya chnadram,Other,glyposlate-1 ltr,Fertilisers,NA,1234567890,0,0,0,,600,NA
+873,2023-11-12 00:00:00.000,0.0,vijay,Other,NA,worker charges,NA,1234567890,0,0,0,,7950,NA
+879,2023-11-11 00:00:00.000,0.0,society kmd,Other,NA,Fertilisers,NA,1234567890,0,0,0,,12000,NA
+880,2023-11-11 00:00:00.000,0.0,tdm,Other,NA,nursery,NA,1234567890,0,0,0,,9600,areca-100*60 and cocont-30*120
+872,2023-11-04 00:00:00.000,0.0,vijay,Other,NA,worker charges,NA,1234567890,0,0,0,,8100,NA
+464,2023-11-02 00:00:00.000,0.0,society_kmd,Other,NA,Urea-Super-Patas,NA,1234567890,0,0,0,,24200,mop*1700+super*450+urea*270(10-10-10)
+465,2023-11-02 00:00:00.000,0.0,society kmd,Other,NA,Calcium-Magneiusam-Phospora,NA,1234567890,0,0,0,,12000,20*600
+868,2023-11-01 00:00:00.000,0.0,old bommauru,Other,badava+tl,coco plants,NA,1234567890,0,0,0,,510,53*9.50
+869,2023-11-01 00:00:00.000,0.0,"ravindra v,mirthipadu",Other,NA,areca plants,NA,1234567890,0,0,0,,10800,270*40
+871,2023-10-29 00:00:00.000,0.0,vijay,Other,NA,worker charges,NA,1234567890,0,0,0,,9300,NA
+867,2023-10-28 00:00:00.000,0.0,old bommauru,Other,badava+nbl,coco plants,NA,1234567890,0,0,0,,1900,200*9.50
+819,2023-10-26 00:00:00.000,0.0,Aadinarayana kistampalem,Other,NA,workers yernagudem,NA,1234567890,0,0,0,,2000,NA
+876,2023-10-21 00:00:00.000,0.0,chekku kmd,Other,blites-13*430,Pestisides,NA,1234567890,0,0,0,,5590,NA
+870,2023-10-15 00:00:00.000,0.0,vijay,Other,NA,worker charges,NA,1234567890,0,0,0,,14250,NA
+865,2023-10-15 00:00:00.000,0.0,vijay,Other,NA,worker charges,NA,1234567890,0,0,0,,9900,NA
+866,2023-10-15 00:00:00.000,0.0,chekku kmd,Other,NA,Pestisides,NA,1234567890,0,0,0,,7700,NA
+862,2023-10-08 00:00:00.000,0.0,vijay,Other,NA,worker charges,NA,1234567890,0,0,0,,6200,NA
+861,2023-10-02 00:00:00.000,0.0,vijay,Other,NA,worker charges,NA,1234567890,0,0,0,,4050,NA
+863,2023-09-23 00:00:00.000,0.0,Ammepalli factory,Other,NA,Plastic drums,NA,1234567890,0,0,0,,8000,10*800
+860,2023-09-15 00:00:00.000,0.0,vijay,Other,NA,worker charges,NA,1234567890,0,0,0,,3150,NA
+859,2023-09-09 00:00:00.000,0.0,vijay,Other,NA,worker charges,NA,1234567890,0,0,0,,8650,NA
+864,2023-09-09 00:00:00.000,0.0,Ammepalli factory,Other,NA,Plastic drums,NA,1234567890,0,0,0,,1600,2*800
+856,2023-09-02 00:00:00.000,0.0,vijay,Other,NA,worker charges,NA,1234567890,0,0,0,,5150,NA
+857,2023-09-02 00:00:00.000,0.0,chekku kmd,Other,NA,blitex,NA,1234567890,0,0,0,,800,NA
+855,2023-08-27 00:00:00.000,0.0,vijay,Other,NA,worker charges,NA,1234567890,0,0,0,,2700,NA
+854,2023-08-21 00:00:00.000,0.0,vijay,Other,NA,worker charges,NA,1234567890,0,0,0,,7150,NA
+853,2023-08-13 00:00:00.000,0.0,vijay,Other,NA,worker charges,NA,1234567890,0,0,0,,8000,NA
+852,2023-08-03 00:00:00.000,0.0,vijay,Other,NA,worker charges,NA,1234567890,0,0,0,,2750,NA
+851,2023-07-23 00:00:00.000,0.0,vijay,Other,NA,worker charges,NA,1234567890,0,0,0,,7600,NA
+849,2023-07-16 00:00:00.000,0.0,vijay,Other,NA,worker charges,NA,1234567890,0,0,0,,3700,NA
+850,2023-07-16 00:00:00.000,0.0,pulleswara rao,Other,NA,Fertilisers,NA,1234567890,0,0,0,,3400,NA
+847,2023-07-09 00:00:00.000,0.0,Vijay,Other,NA,Worker charges,NA,1234567890,0,0,0,,9500,cement work
+848,2023-07-09 00:00:00.000,0.0,vijay,Other,NA,worker charges,NA,1234567890,0,0,0,,6750,spray plants+weed spray
+845,2023-06-25 00:00:00.000,0.0,Vijay,Other,NA,Worker charges,NA,1234567890,0,0,0,,13350,coco plant cut+cement work
+846,2023-06-25 00:00:00.000,0.0,Raju and Ashok,Other,NA,"JCB ",NA,1234567890,0,0,0,,43500,pp to Raju diff transactions and 1000 beta for 5 days of work
+844,2023-06-18 00:00:00.000,0.0,Vijay,Other,NA,Worker charges,NA,1234567890,0,0,0,,18900,coco plant cut+cement work
+463,2023-06-03 00:00:00.000,0.0,swami + subbarao,Other,NA,worker charges,NA,1234567890,0,0,0,,2100,NA
+842,2023-05-21 00:00:00.000,0.0,Vijay,Other,NA,worker charges,NA,1234567890,0,0,0,,4500,NA
+843,2023-05-21 00:00:00.000,0.0,swami+subbrao,Other,NA,worker charges,NA,1234567890,0,0,0,,4400,NA
+840,2023-05-12 00:00:00.000,0.0,Swami+subarao,Other,NA,worker charges,NA,1234567890,0,0,0,,6000,NA
+841,2023-05-12 00:00:00.000,0.0,Vijay,Other,NA,worker charges,NA,1234567890,0,0,0,,9000,NA
+839,2023-04-30 00:00:00.000,0.0,Vijay,Other,NA,worker charges,NA,1234567890,0,0,0,,6300,NA
+832,2023-04-26 00:00:00.000,0.0,chekku kmd,Other,NA,Pestisides,NA,1234567890,0,0,0,,3600,NA
+837,2023-04-23 00:00:00.000,0.0,Vijay,Other,NA,Worker charges,NA,1234567890,0,0,0,,9000,NA
+838,2023-04-23 00:00:00.000,0.0,Swami,Other,NA,Worker charges,NA,1234567890,0,0,0,,4500,NA
+836,2023-04-08 00:00:00.000,0.0,chekku kmd,Other,NA,Pestisides,NA,1234567890,0,0,0,,600,NA
+833,2023-04-07 00:00:00.000,0.0,Swami,Other,NA,Worker charges,NA,1234567890,0,0,0,,2400,NA
+834,2023-04-07 00:00:00.000,0.0,Vijay,Other,NA,Worker charges,NA,1234567890,0,0,0,,5400,NA
+835,2023-04-07 00:00:00.000,0.0,chekku kmd,Other,NA,Pestisides,NA,1234567890,0,0,0,,3600,NA
+830,2023-03-26 00:00:00.000,0.0,Swami,Other,NA,Worker charges,NA,1234567890,0,0,0,,4400,NA
+831,2023-03-26 00:00:00.000,0.0,Vijay,Other,NA,Worker charges,NA,1234567890,0,0,0,,3150,NA
+826,2023-03-14 00:00:00.000,0.0,chekku kmd,Other,NA,Pestisides,NA,1234567890,0,0,0,,3600,NA
+829,2023-03-13 00:00:00.000,0.0,vijay,Other,NA,Worker charges,NA,1234567890,0,0,0,,2300,NA
+827,2023-03-12 00:00:00.000,0.0,Swami,Other,NA,Worker charges,NA,1234567890,0,0,0,,3500,NA
+828,2023-03-12 00:00:00.000,0.0,vijay,Other,NA,Worker charges,NA,1234567890,0,0,0,,5200,NA
+825,2023-03-08 00:00:00.000,0.0,chekku kmd,Other,NA,Pestisides,NA,1234567890,0,0,0,,10750,NA
+824,2023-03-01 00:00:00.000,0.0,chekku kmd,Other,NA,Pestisides,NA,1234567890,0,0,0,,1800,NA
+823,2023-02-24 00:00:00.000,0.0,Annavaram yernagudem,Other,NA,workers yernagudem,NA,1234567890,0,0,0,,5400,NA
+462,2023-02-20 00:00:00.000,0.0,yernagudem society,Other,NA,Fertilisers,NA,1234567890,0,0,0,,2640,piad by pp pulleswararao
+460,2023-02-19 00:00:00.000,0.0,subba Rao Vaddilu Team,Other,NA,Worker charges,NA,1234567890,0,0,0,,4500,NA
+461,2023-02-19 00:00:00.000,0.0,chekku kmd,Other,NA,Pestisides,NA,1234567890,0,0,0,,1800,NA
+821,2023-02-12 00:00:00.000,0.0,chekku kmd,Other,NA,Pestisides,NA,1234567890,0,0,0,,13800,NA
+822,2023-02-12 00:00:00.000,0.0,Subba Rao Vaddilu Team,Other,NA,workers,NA,1234567890,0,0,0,,4800,NA
+858,2023-02-09 00:00:00.000,0.0,chekku kmd,Other,NA,worker charges,NA,1234567890,0,0,0,,1500,NA
+791,2023-01-27 00:00:00.000,0.0,commissioner-subbar rao,Other,new bore lamd,syrvey 284/2 new bore land,NA,1234567890,0,0,0,,5000,NA
+818,2023-01-26 00:00:00.000,0.0,Subba Rao Vaddilu Team,Other,NA,worker charges,NA,1234567890,0,0,0,,5200,NA
+820,2023-01-26 00:00:00.000,0.0,Aadinarayana kistampalem,Other,NA,worker,NA,1234567890,0,0,0,,2000,NA
+817,2023-01-21 00:00:00.000,0.0,chekku kmd,Other,NA,Pestisides,NA,1234567890,0,0,0,,4700,NA
+458,2023-01-09 00:00:00.000,0.0,diwakar kothapalli,Other,NA,areca plants,NA,1234567890,0,0,0,,10100,NA
+459,2023-01-09 00:00:00.000,0.0,Paul auto,Other,NA,Transport,NA,1234567890,0,0,0,,1500,NA
+815,2023-01-08 00:00:00.000,0.0,chekku kmd,Other,badava,Fertilisers,NA,1234567890,0,0,0,,10350,NA
+816,2023-01-08 00:00:00.000,0.0,Subba Rao Vaddilu Team,Other,badava,Worker charges,NA,1234567890,0,0,0,,8300,NA
+813,2023-01-05 00:00:00.000,0.0,Annavaram yernagudem,Other,badava,Worker charges,NA,1234567890,0,0,0,,6300,NA
+814,2023-01-05 00:00:00.000,0.0,Yernagydem by aanavaram,Other,NA,Paara,NA,1234567890,0,0,0,,750,3*250
+812,2023-01-03 00:00:00.000,0.0,Siva corpenter kmd,Other,badava,Wood board,NA,1234567890,0,0,0,,1000,NA
+811,2023-01-02 00:00:00.000,0.0,Aadinarayana kistampalem,Other,badava,penta,NA,1234567890,0,0,0,,2000,NA
+810,2023-01-01 00:00:00.000,0.0,Subba Rao Vaddilu Team,Other,badava,worker charges,NA,1234567890,0,0,0,,7600,NA
+808,2022-12-29 00:00:00.000,0.0,diwakar kothapalli,Other,badava+temple land,areca plants,NA,1234567890,0,0,0,,10100,200*50+100
+809,2022-12-29 00:00:00.000,0.0,Paul auto,Other,NA,Transport,NA,1234567890,0,0,0,,1500,NA
+805,2022-12-27 00:00:00.000,0.0,Ashok yernagudem,Other,badava,down gadilu,NA,1234567890,0,0,0,,10250,9:30*1100+200
+806,2022-12-19 00:00:00.000,0.0,Suresh karripothu,Other,new boreland,soil trips+puntha,NA,1234567890,0,0,0,,8400,100
+807,2022-12-19 00:00:00.000,0.0,Rama kroshna tjp,Other,new boreland,2 wheeler,NA,1234567890,0,0,0,,1200,6*200
+802,2022-12-19 00:00:00.000,0.0,Annavaram yernagudem,Other,badava,Areca plucking,NA,1234567890,0,0,0,,8100,NA
+803,2022-12-19 00:00:00.000,0.0,Aadinarayana kistampalem,Other,badava,help with team,NA,1234567890,0,0,0,,3000,NA
+804,2022-12-19 00:00:00.000,0.0,Subba Rao Vaddilu Team,Other,badava,worker charges,NA,1234567890,0,0,0,,10700,NA
+456,2022-12-13 00:00:00.000,0.0,Aadinarayana kistampalem,Other,badava,"Help ",NA,1234567890,0,0,0,,2000,NA
+457,2022-12-13 00:00:00.000,0.0,Krsihna Mangali kmd,Other,badava,Electrical,NA,1234567890,0,0,0,,5300,Badava motor board repair
+454,2022-12-13 00:00:00.000,0.0,Subba Rao Vaddilu Team,Other,badava,Worker charges,NA,1234567890,0,0,0,,10600,men+women
+455,2022-12-12 00:00:00.000,0.0,Annavaram yernagudem,Other,badava,spraying,NA,1234567890,0,0,0,,5850,NA
+453,2022-12-11 00:00:00.000,0.0,checkku kmd,Other,badava+new boreland,Pestisides,NA,1234567890,0,0,0,,9000,spyker 5l*5
+801,2022-12-08 00:00:00.000,0.0,Annavaram yernagudem,Other,badava,Banana cut,NA,1234567890,0,0,0,,5850,NA
+798,2022-12-07 00:00:00.000,0.0,diwakar kothapalli,Other,badava+new bore+temple,areca plants,NA,1234567890,0,0,0,,25250,5000*50+250 for loading by pp
+799,2022-12-07 00:00:00.000,0.0,Aashirwadam kmd,Other,NA,Transport auto 3 wheels truck,NA,1234567890,0,0,0,,2600,by pp
+800,2022-12-07 00:00:00.000,0.0,Prakash vaddilu,Other,NA,Tractor charges,NA,1234567890,0,0,0,,1100,900+200(given to aadi achanta) by pp
+796,2022-12-04 00:00:00.000,0.0,Subba Rao Vaddilu Team,Other,badava,Worker charges,NA,1234567890,0,0,0,,2800,NA
+797,2022-12-04 00:00:00.000,0.0,chekku kmd,Other,badava,Pestisides,NA,1234567890,0,0,0,,2200,NA
+795,2022-11-30 00:00:00.000,0.0,Murthy yernagudem,Other,badava,Banana plucking,NA,1234567890,0,0,0,,2250,pp by pulleswara rao yernagudem
+794,2022-11-29 00:00:00.000,0.0,Subba Rao Vaddilu Team,Other,badava,worker charges,NA,1234567890,0,0,0,,9200,NA
+793,2022-11-28 00:00:00.000,0.0,checkku kmd,Other,badava,Pestisides,NA,1234567890,0,0,0,,5600,NA
+788,2022-11-21 00:00:00.000,0.0,Murthy yernagudem,Other,badava,Banana plucking,NA,1234567890,0,0,0,,13950,31*450(by pp pulleswara ao)
+789,2022-11-21 00:00:00.000,0.0,cuppy srinu,Other,temple land,cuppy,NA,1234567890,0,0,0,,3200,3 joints+1 GC nippal iron yernagudem+half pulling
+786,2022-11-20 00:00:00.000,0.0,chekku kmd,Other,NA,Pestisides,NA,1234567890,0,0,0,,5350,Mono 5l-2900+blitex-450+4g carbofuran-5*400
+787,2022-11-20 00:00:00.000,0.0,Subba Rao Vaddilu Team,Other,badava+new bore+temple,Worker charges,NA,1234567890,0,0,0,,13400,NA
+785,2022-11-17 00:00:00.000,0.0,Singaram Raju,Other,new bore land,Pentaa,NA,1234567890,0,0,0,,10000,NA
+784,2022-11-14 00:00:00.000,0.0,Murthy yernagudem,Other,badava,Banana plucking,NA,1234567890,0,0,0,,9900,22*450
+778,2022-11-13 00:00:00.000,0.0,chekku kmd,Other,badava,Fertilisers,NA,1234567890,0,0,0,,2800,7*400
+779,2022-11-13 00:00:00.000,0.0,Subba Rao Vaddilu Team,Other,Badava+Templeland,Worker charges,NA,1234567890,0,0,0,,10600,NA
+780,2022-11-13 00:00:00.000,0.0,Peli Raju,Other,new bore land,Penta,NA,1234567890,0,0,0,,2800,4*700(4 trips)
+783,2022-11-10 00:00:00.000,0.0,Singaram Raju,Other,new bore land,Penta,NA,1234567890,0,0,0,,10000,NA
+776,2022-11-07 00:00:00.000,0.0,chekku kmd,Other,badava,Pestisides,NA,1234567890,0,0,0,,3600,NA
+782,2022-11-06 00:00:00.000,0.0,Singaram Raju,Other,temple land,Penta,NA,1234567890,0,0,0,,10000,NA
+781,2022-11-05 00:00:00.000,0.0,Peli Raju,Other,temple land+new bore land,Penta,NA,1234567890,0,0,0,,5600,8*700
+777,2022-11-03 00:00:00.000,0.0,society yerngudem,Other,badava,Fertilisers,NA,1234567890,0,0,0,,19700,10 urea+0 patas
+774,2022-10-31 00:00:00.000,0.0,Subba Rao Vaddilu Team,Other,badava,Worker charges,NA,1234567890,0,0,0,,9500,NA
+775,2022-10-31 00:00:00.000,0.0,Paul auto,Other,badava,Transport coco plants,NA,1234567890,0,0,0,,1050,NA
+772,2022-10-30 00:00:00.000,0.0,chekku kmd,Other,badava+new boreland,Pestisides,NA,1234567890,0,0,0,,7200,spyker(gromoxin)-4
+773,2022-10-30 00:00:00.000,0.0,Gadde Rama Rao,Other,new bore land,Cashew plants,NA,1234567890,0,0,0,,3500,50-plants
+770,2022-10-23 00:00:00.000,0.0,Subba Rao Vaddilu Team,Other,badava+temple land,Worker charges,NA,1234567890,0,0,0,,6000,NA
+771,2022-10-23 00:00:00.000,0.0,chekku kmd,Other,temple land+new bore land,Fertilisers,NA,1234567890,0,0,0,,1600,4g*4 packets
+768,2022-10-17 00:00:00.000,0.0,Subba Rao Vaddilu Team,Other,badava+temple land,Worker charges,NA,1234567890,0,0,0,,6600,NA
+769,2022-10-17 00:00:00.000,0.0,Society kmd,Other,Ammonia,Fertilisers,NA,1234567890,0,0,0,,1000,1 packet
+767,2022-10-13 00:00:00.000,0.0,society kmd,Other,NA,Fertilisers,NA,1234567890,0,0,0,,5880,4*1470(10-26-26)
+766,2022-10-09 00:00:00.000,0.0,chekku kmd,Other,badava,Pestisides,NA,1234567890,0,0,0,,3600,NA
+765,2022-09-29 00:00:00.000,0.0,Subba Rao Vaddilu Team,Other,badava,Worker charges,NA,1234567890,0,0,0,,4250,NA
+763,2022-09-24 00:00:00.000,0.0,Subba Rao Vaddilu Team,Other,badava,Worker charges,NA,1234567890,0,0,0,,6600,NA
+764,2022-09-24 00:00:00.000,0.0,chekku kmd,Other,badava,Fertilisers,NA,1234567890,0,0,0,,3600,2*800
+761,2022-09-18 00:00:00.000,0.0,Subba Rao Vaddilu Team,Other,badava,Worker charges,NA,1234567890,0,0,0,,7000,NA
+762,2022-09-08 00:00:00.000,0.0,chekku kmd,Other,badava,Fertilisers,NA,1234567890,0,0,0,,3600,NA
+760,2022-09-04 00:00:00.000,0.0,Subba Rao Vaddilu Team,Other,badava,Worker charges,NA,1234567890,0,0,0,,5350,NA
+758,2022-08-28 00:00:00.000,0.0,Subba Rao Vaddilu Team,Other,badava,worker charges,NA,1234567890,0,0,0,,7800,600 cococut at temple land
+759,2022-08-28 00:00:00.000,0.0,chekku kmd,Other,badava,Fertilisers,NA,1234567890,0,0,0,,1800,NA
+756,2022-08-22 00:00:00.000,0.0,Subba Rao Vaddilu Team,Other,badava,Worker chares,NA,1234567890,0,0,0,,7800,NA
+757,2022-08-22 00:00:00.000,0.0,chekku kmd,Other,badava,Fertilisers,NA,1234567890,0,0,0,,5400,NA
+751,2022-08-14 00:00:00.000,0.0,chekku kmd,Other,badava,Fertilisers,NA,1234567890,0,0,0,,7200,NA
+755,2022-08-14 00:00:00.000,0.0,Subba Rao Vaddilu Team,Other,badava,Worker chares,NA,1234567890,0,0,0,,7000,NA
+754,2022-08-08 00:00:00.000,0.0,Subba Rao Vaddilu Team,Other,badava,Worker charges,NA,1234567890,0,0,0,,8400,NA
+753,2022-08-01 00:00:00.000,0.0,Subba Rao Vaddilu Team,Other,badava,Worker charges,NA,1234567890,0,0,0,,0,NA
+752,2022-07-17 00:00:00.000,0.0,Subba Rao Vaddilu Team,Other,new bore land+badava,Worker charges,NA,1234567890,0,0,0,,0,petrolchrges 300
+750,2022-07-16 00:00:00.000,0.0,chekku kmd,Other,new bore land,Fertilisers,NA,1234567890,0,0,0,,2000,3G carbofuran 4*500
+748,2022-07-10 00:00:00.000,0.0,Subba Rao Vaddilu Team,Other,badava,Worker charges,NA,1234567890,0,0,0,,8000,NA
+749,2022-07-09 00:00:00.000,0.0,Gadde Rama Rao,Other,new bore land,Cashew plants,NA,1234567890,0,0,0,,8000,100*80
+747,2022-06-26 00:00:00.000,0.0,chekku kmd,Other,bulk,Pestisides,NA,1234567890,0,0,0,,18000,25*3000(5 litr 6)
+745,2022-06-20 00:00:00.000,0.0,Subba Rao Vaddilu Team,Other,badava+temple land,Worker charges,NA,1234567890,0,0,0,,3600,coco beans+spraying
+746,2022-06-20 00:00:00.000,0.0,chekku kmd,Other,badava,Pestisides,NA,1234567890,0,0,0,,3600,NA
+744,2022-06-06 00:00:00.000,0.0,chekku kmd,Other,new bore land,Pestisides,NA,1234567890,0,0,0,,4050,2 gromoxin+1 blitex
+743,2022-06-05 00:00:00.000,0.0,Subba Rao Vaddilu Team,Other,temple land,Worker charges,NA,1234567890,0,0,0,,6800,coco trees cut
+742,2022-06-01 00:00:00.000,0.0,Subba Rao Vaddilu Team,Other,temple land,Worker charges,NA,1234567890,0,0,0,,7200,coco trees cut
+741,2022-05-23 00:00:00.000,0.0,Subba Rao Vaddilu Team,Other,badava,Worker charges,NA,1234567890,0,0,0,,8000,NA
+739,2022-05-15 00:00:00.000,0.0,Subba Rao Vaddilu Team,Other,badava,Worker charges,NA,1234567890,0,0,0,,4200,NA
+740,2022-05-15 00:00:00.000,0.0,chekku kmd,Other,badava,Pestisides,NA,1234567890,0,0,0,,3850,Mono-5l-2500+blitex-500g-3(each 350)
+738,2022-05-08 00:00:00.000,0.0,Subba Rao Vaddilu Team,Other,badava,Worker charges,NA,1234567890,0,0,0,,3200,NA
+736,2022-05-01 00:00:00.000,0.0,Subba Rao Vaddilu Team,Other,badava,Worker charges,NA,1234567890,0,0,0,,6400,NA
+737,2022-05-01 00:00:00.000,0.0,Paul auto,Other,badava,Banana transport,NA,1234567890,0,0,0,,1200,ndd 500+tpg 700
+735,2022-04-25 00:00:00.000,0.0,Subba Rao Vaddilu Team,Other,badava+temple land,Worker charges,NA,1234567890,0,0,0,,4800,12*400
+734,2022-04-22 00:00:00.000,0.0,Bojjiya,Other,temple land+new bore land,Pipes digging,NA,1234567890,0,0,0,,8500,"17 pipes 17*350,auto 2 days 2*500+1000 leak+500 mestri"
+733,2022-04-18 00:00:00.000,0.0,Bojjiya,Other,badava,Pipes digging,NA,1234567890,0,0,0,,10000,NA
+732,2022-04-17 00:00:00.000,0.0,chekku kmd,Other,badava,Pestisides,NA,1234567890,0,0,0,,1650,NA
+730,2022-04-14 00:00:00.000,0.0,RJY SrimahaLakshmiAgencies,Other,badava,Pipe transport,NA,1234567890,0,0,0,,2300,NA
+728,2022-04-12 00:00:00.000,0.0,RJY SrimahaLakshmiAgencies,Other,temple land+new bore land,Finolex Pipes,NA,1234567890,0,0,0,,26180,17 pipes 17*1540
+729,2022-04-12 00:00:00.000,0.0,Bojjiya,Other,badava,Pipe digging,NA,1234567890,0,0,0,,5000,NA
+725,2022-04-10 00:00:00.000,0.0,Subba Rao Vaddilu Team,Other,badava,Worker charges,NA,1234567890,0,0,0,,9200,NA
+726,2022-04-10 00:00:00.000,0.0,Subba Rao Vaddilu Team,Other,badava,Worker charges-womens,NA,1234567890,0,0,0,,1800,NA
+727,2022-04-10 00:00:00.000,0.0,checkku kmd,Other,badava,Pestisides,NA,1234567890,0,0,0,,4950,NA
+724,2022-04-09 00:00:00.000,0.0,Bojjiya,Other,badava,Pipe digging,NA,1234567890,0,0,0,,7000,NA
+723,2022-04-08 00:00:00.000,0.0,Bojjiya,Other,badava,Pipe digging,NA,1234567890,0,0,0,,500,advance each pipe 350 for 2.5 inch digging
+722,2022-04-05 00:00:00.000,0.0,RJY SrimahaLakshmiAgencies,Other,badava,Finolex Pipes,NA,1234567890,0,0,0,,96326,with the help of Balaji Konthamooru
+720,2022-04-03 00:00:00.000,0.0,chekku kmd,Other,badava,Pestisides,NA,1234567890,0,0,0,,4950,NA
+721,2022-04-03 00:00:00.000,0.0,peda kapu,Other,badava,sprayer,NA,1234567890,0,0,0,,100,NA
+718,2022-04-01 00:00:00.000,0.0,Subba Rao Vaddilu Team,Other,badava,Worker charges,NA,1234567890,0,0,0,,13600,NA
+719,2022-04-01 00:00:00.000,0.0,Subba Rao Vaddilu Team,Other,badava,Worker charger-women,NA,1234567890,0,0,0,,3600,NA
+717,2022-03-28 00:00:00.000,0.0,Ananda Rao Apparao pet,Other,badava,Motor puller,NA,1234567890,0,0,0,,1600,NA
+716,2022-03-27 00:00:00.000,0.0,chekku kmd,Other,badava,Pestisides,NA,1234567890,0,0,0,,6600,NA
+713,2022-03-23 00:00:00.000,0.0,Subba Rao Vaddilu Team,Other,badava,banana karra,NA,1234567890,0,0,0,,14000,NA
+714,2022-03-23 00:00:00.000,0.0,Subba Rao Vaddilu Team,Other,badava,Kalupu,NA,1234567890,0,0,0,,3600,NA
+715,2022-03-23 00:00:00.000,0.0,Chendu vaddilu,Other,badava,Tractor charges,NA,1234567890,0,0,0,,900,NA
+710,2022-03-13 00:00:00.000,0.0,Subba Rao Vaddilu Team,Other,badava,workers-women,NA,1234567890,0,0,0,,2600,NA
+711,2022-03-13 00:00:00.000,0.0,Subba Rao Vaddilu Team,Other,badava,Workers,NA,1234567890,0,0,0,,11600,NA
+712,2022-03-13 00:00:00.000,0.0,chekku kmd,Other,badava,Gromoxin,NA,1234567890,0,0,0,,3300,NA
+707,2022-03-06 00:00:00.000,0.0,Subba Rao Vaddilu Team,Other,badava banana,Worker charges,NA,1234567890,0,0,0,,10400,NA
+709,2022-03-06 00:00:00.000,0.0,peda kapu,Other,NA,Sprayers,NA,1234567890,0,0,0,,100,2*50
+706,2022-03-01 00:00:00.000,0.0,Dhavaleswaram,Other,Badava banana holes,Aagarru/pagarru,NA,1234567890,0,0,0,,900,NA
+704,2022-03-01 00:00:00.000,0.0,Subba Rao Vaddilu Team,Other,badava,arite plika cut,NA,1234567890,0,0,0,,3600,NA
+705,2022-02-27 00:00:00.000,0.0,chekku kmd,Other,badava,Blitex,NA,1234567890,0,0,0,,1350,3*450
+703,2022-02-27 00:00:00.000,0.0,Subba Rao Vaddilu Team,Other,badava,Worker charges,NA,1234567890,0,0,0,,12800,NA
+700,2022-02-20 00:00:00.000,0.0,Subba Rao Vaddilu Team,Other,badava,Worker charges,NA,1234567890,0,0,0,,10800,"dibbalu,parapani mokkale"
+701,2022-02-20 00:00:00.000,0.0,Subba Rao Vaddilu Team,Other,Templeland,coco,NA,1234567890,0,0,0,,1200,NA
+702,2022-02-20 00:00:00.000,0.0,chekku kmd,Other,badava,Pestisides,NA,1234567890,0,0,0,,3800,NA
+698,2022-02-16 00:00:00.000,0.0,society kmd,Other,NA,Fertilisers,NA,1234567890,0,0,0,,12340,10 urea+7 20-20+1 Nano urea
+697,2022-02-13 00:00:00.000,0.0,Subba Rao Vaddilu Team,Other,badava,Worker charges,NA,1234567890,0,0,0,,8000,NA
+699,2022-02-07 00:00:00.000,0.0,society kmd,Other,NA,Fertilisers,NA,1234567890,0,0,0,,2050,10 urea
+693,2022-02-06 00:00:00.000,0.0,Subba Rao Vaddilu Team,Other,badava,Worker charges,NA,1234567890,0,0,0,,6800,NA
+694,2022-02-06 00:00:00.000,0.0,Subba Rao Vaddilu Team,Other,badava,coco fruit cut,NA,1234567890,0,0,0,,1200,NA
+695,2022-02-06 00:00:00.000,0.0,Ananda Rao Apparao pet,Other,badava,Motor pulling,NA,1234567890,0,0,0,,1700,1500+200(additional fo long distance)
+696,2022-02-06 00:00:00.000,0.0,Tirumala electricals NDD,Other,badava,motor accessoroes,NA,1234567890,0,0,0,,1750,"4 inch coupling,4 inch clamp,airwall etc"
+708,2022-02-06 00:00:00.000,0.0,Subba Rao Vaddilu Team,Other,badava areca,Worker charges-womens,NA,1234567890,0,0,0,,800,NA
+692,2022-02-02 00:00:00.000,0.0,Kumar(Varalakshmi Eng NDD),Other,badava,Godavari delivery tube,NA,1234567890,0,0,0,,34800,50*600(50 mtr)_Nippals-2(3800)+1000(tarnsport-tata ac)
+691,2022-01-31 00:00:00.000,0.0,Subba Rao Vaddilu Team,Other,badava,Worker charges,NA,1234567890,0,0,0,,7200,NA
+790,2022-01-27 00:00:00.000,0.0,suryer-praveen,Other,new bore lamd,syrvey 284/2 new bore land,NA,1234567890,0,0,0,,3000,NA
+689,2022-01-25 00:00:00.000,0.0,Subba Rao Vaddilu Team,Other,badava+newboreland,Worker charges,NA,1234567890,0,0,0,,9600,24*400
+688,2022-01-23 00:00:00.000,0.0,chekku kmd,Other,badava,Pestisides,NA,1234567890,0,0,0,,4800,NA
+687,2022-01-20 00:00:00.000,0.0,Krsihna Mangali kmd,Other,new boreland+badava,Electrical service,NA,1234567890,0,0,0,,3000,each service 1500
+686,2022-01-16 00:00:00.000,0.0,chekku kmd,Other,new boreland,Pestisides,NA,1234567890,0,0,0,,2950,3 ratol*450 and 5L*1*1600gromoxin
+690,2022-01-11 00:00:00.000,0.0,took by subbra,Other,temple land+badava,urea,NA,1234567890,0,0,0,,800,758
+684,2022-01-08 00:00:00.000,0.0,Subba Rao Vaddilu Team,Other,badava,coco fruit cut,NA,1234567890,0,0,0,,2200,"coco fruit cut+put rat tubes,200 for petrol"
+685,2022-01-08 00:00:00.000,0.0,Subba Rao Vaddilu Team,Other,badava+new boreland(1day),worker charges mens,NA,1234567890,0,0,0,,12400,NA
+683,2022-01-07 00:00:00.000,0.0,Prakash vaddilu,Other,areca pluckked plants,Tractor charges,NA,1234567890,0,0,0,,800,NA
+682,2022-01-05 00:00:00.000,0.0,Raju tjp,Other,patimeeda,repair,NA,1234567890,0,0,0,,10500,"need to calculate with udaya row no-211 and ummadi bore,paid by pp tomajji anandha kumar-9440142944"
+681,2022-01-02 00:00:00.000,0.0,chekku kmd,Other,badava,sparying,NA,1234567890,0,0,0,,3600,NA
+677,2021-12-26 00:00:00.000,0.0,Subba Rao Vaddilu Team,Other,badava,Worker charges,NA,1234567890,0,0,0,,15600,areca planting_spraying+cleaning plants
+678,2021-12-26 00:00:00.000,0.0,chekku kmd,Other,badava,Pestisides,NA,1234567890,0,0,0,,8000,NA
+679,2021-12-26 00:00:00.000,0.0,Nani V kmd,Other,house purpose,electrical accessories,NA,1234567890,0,0,0,,3025,NA
+676,2021-12-23 00:00:00.000,0.0,tjp owner gouse,Other,badava,jcb sekhar tjp,NA,1234567890,0,0,0,,2500,kayala chenu border 2:20*1200
+674,2021-12-21 00:00:00.000,0.0,Gadde Rama Rao,Other,new boreland,Cashew plants,NA,1234567890,0,0,0,,1610,23*70(25 given)
+675,2021-12-21 00:00:00.000,0.0,Anjineyulu ndd,Other,patimeeda,Motor repair,NA,1234567890,0,0,0,,4500,ummadi bore motor repair purpose
+670,2021-12-19 00:00:00.000,0.0,chekku kmd,Other,new boreland,Pestisides,NA,1234567890,0,0,0,,8000,NA
+671,2021-12-19 00:00:00.000,0.0,Subba Rao Vaddilu Team,Other,new boreland,Worker charges,NA,1234567890,0,0,0,,11600,spraying+cashew planting
+672,2021-12-19 00:00:00.000,0.0,peda kapu,Other,new boreland,"sprayers ",NA,1234567890,0,0,0,,150,NA
+673,2021-12-19 00:00:00.000,0.0,Gadde Rama Rao,Other,new boreland,Cashew plants,NA,1234567890,0,0,0,,3500,50(52 given 2 extra)
+669,2021-12-18 00:00:00.000,0.0,diwakar kothapalli,Other,badava+new boreland,areca plants,NA,1234567890,0,0,0,,7500,"250*30(255,given 5 extra)"
+667,2021-12-13 00:00:00.000,0.0,Gadde Rama Rao,Other,new bore land,Cashew plants,NA,1234567890,0,0,0,,10500,"150*70(154,given 4 extra)"
+668,2021-12-13 00:00:00.000,0.0,Paul kmd,Other,NA,"Auto transport ",NA,1234567890,0,0,0,,1000,NA
+666,2021-12-12 00:00:00.000,0.0,Subba Rao Vaddilu Team,Other,Badava banana planting,Worker charges,NA,1234567890,0,0,0,,8000,NA
+665,2021-12-05 00:00:00.000,0.0,Subba Rao Vaddilu Team,Other,badava+new boreland,Worker charges,NA,1234567890,0,0,0,,7000,Fertiliser for banana+banana planting
+664,2021-12-01 00:00:00.000,0.0,Prakash vaddilu,Other,badava,Tractor charges,NA,1234567890,0,0,0,,1000,banana transport for kannapuram
+663,2021-11-30 00:00:00.000,0.0,Subba Rao Vaddilu Team,Other,Temple land+New bore land+badava,Worker charges,NA,1234567890,0,0,0,,10000,400 extra for banana loading to kannapuram
+662,2021-11-23 00:00:00.000,0.0,Subba Rao Vaddilu Team,Other,temple land,cocco trimming,NA,1234567890,0,0,0,,7200,NA
+660,2021-11-22 00:00:00.000,0.0,socirty kmd,Other,NA,interest paid,NA,1234567890,0,0,0,,8150,return will come
+661,2021-11-21 00:00:00.000,0.0,Ramkrishna,Other,temple land,Worker charges,NA,1234567890,0,0,0,,1200,NA
+656,2021-11-13 00:00:00.000,0.0,Subaba Rao Vaddilu,Other,badava,coco planting,NA,1234567890,0,0,0,,10600,26*400 +200 unload coco
+657,2021-11-13 00:00:00.000,0.0,Ramkrishna,Other,badava,coco planting,NA,1234567890,0,0,0,,8400,NA
+658,2021-11-13 00:00:00.000,0.0,chekku kmd,Other,badava,coco planting,NA,1234567890,0,0,0,,120,NA
+659,2021-11-13 00:00:00.000,0.0,Nani V kmd,Other,badava,joint,NA,1234567890,0,0,0,,105,NA
+654,2021-11-11 00:00:00.000,0.0,vadapalli,Other,badava+new bore loand+vaddlavani kunta,Banana planting,NA,1234567890,0,0,0,,8000,2000*4
+655,2021-11-11 00:00:00.000,0.0,to korumamidi,Other,NA,Transport banana plants,NA,1234567890,0,0,0,,2500,NA
+650,2021-11-07 00:00:00.000,0.0,Ramkrishna,Other,badava,banana cleaning and fertilising,NA,1234567890,0,0,0,,12400,NA
+651,2021-11-06 00:00:00.000,0.0,Prakash vaddilu,Other,badava,Fertiliser+coco,NA,1234567890,0,0,0,,1600,NA
+652,2021-11-06 00:00:00.000,0.0,Prakash vaddilu,Other,badava+new bore loand,coco plants from bomuru,NA,1234567890,0,0,0,,4000,2000 coco plants from bommuru
+653,2021-11-06 00:00:00.000,0.0,coco bomuru,Other,badava+new bore loand,coco plants from bomuru,NA,1234567890,0,0,0,,800,NA
+649,2021-11-04 00:00:00.000,0.0,society,Other,badava,banana,NA,1234567890,0,0,0,,29770,NA
+648,2021-11-01 00:00:00.000,0.0,Subba Rao Vaddilu Team,Other,badava,areca planting,NA,1234567890,0,0,0,,6800,NA
+647,2021-10-29 00:00:00.000,0.0,chekku kmd,Other,badava,spraying,NA,1234567890,0,0,0,,2900,NA
+646,2021-10-19 00:00:00.000,0.0,Subba Rao Vaddilu Team,Other,new boreland,areca planting,NA,1234567890,0,0,0,,8000,NA
+643,2021-10-09 00:00:00.000,0.0,Subba Rao Vaddilu Team,Other,new boreland,soil work+spraying,NA,1234567890,0,0,0,,10400,pestisides spraying and soil digg(gandi) work
+644,2021-10-09 00:00:00.000,0.0,Vamsi kmd,Other,new boreland,soil work+spraying,NA,1234567890,0,0,0,,90,NA
+645,2021-10-09 00:00:00.000,0.0,chekku kmd,Other,new boreland,spraying,NA,1234567890,0,0,0,,4350,NA
+642,2021-10-02 00:00:00.000,0.0,chekku kmd,Other,new boreland,pestisides,NA,1234567890,0,0,0,,2900,NA
+640,2021-10-01 00:00:00.000,0.0,Prakash vaddilu,Other,badava,areca,NA,1234567890,0,0,0,,800,Main road to Badava 1 trip of areca plants
+641,2021-09-30 00:00:00.000,0.0,Nani V kmd,Other,NA,PVC pipe,NA,1234567890,0,0,0,,700,"pipe 1 ,4 inch"
+639,2021-09-30 00:00:00.000,0.0,Subba Rao Vaddilu Team,Other,badava,spraying+areca,NA,1234567890,0,0,0,,6000,NA
+638,2021-09-25 00:00:00.000,0.0,chekku kmd,Other,badava,spraying,NA,1234567890,0,0,0,,1450,NA
+636,2021-09-18 00:00:00.000,0.0,Brahmiya team,Other,badava,Pestisides,NA,1234567890,0,0,0,,4800,NA
+637,2021-09-18 00:00:00.000,0.0,chekku kmd,Other,badava,Pestisides,NA,1234567890,0,0,0,,4350,NA
+635,2021-09-08 00:00:00.000,0.0,Nani V kmd,Other,new bore land,PVC pipe,NA,1234567890,0,0,0,,700,"pipe 1, 4 inch"
+633,2021-09-06 00:00:00.000,0.0,Paul Team,Other,badava,sprayer,NA,1234567890,0,0,0,,6000,NA
+631,2021-08-28 00:00:00.000,0.0,Mentiya,Other,NA,drums from factory,NA,1234567890,0,0,0,,1500,"1*700,100 add to mentiayya"
+632,2021-08-28 00:00:00.000,0.0,Paul Team,Other,Temple land badava,sprayer,NA,1234567890,0,0,0,,7600,NA
+630,2021-08-26 00:00:00.000,0.0,satiesh bighat,Other,NA,Pestisides,NA,1234567890,0,0,0,,8000,20 litr(each 5 litr*4)
+629,2021-08-25 00:00:00.000,0.0,Murali-Immanni,Other,NA,sprayer-2,NA,1234567890,0,0,0,,6800,with the help of Ramu Mattaparthi
+628,2021-08-21 00:00:00.000,0.0,Paul Team,Other,temple land,"fertilizer ",NA,1234567890,0,0,0,,2000,patash
+626,2021-08-14 00:00:00.000,0.0,chekku kmd,Other,badava,spayer,NA,1234567890,0,0,0,,5800,NA
+627,2021-08-14 00:00:00.000,0.0,Paul Team,Other,badava,spayer,NA,1234567890,0,0,0,,6000,NA
+624,2021-08-07 00:00:00.000,0.0,Paul Team,Other,badava,spayer,NA,1234567890,0,0,0,,9800,NA
+625,2021-08-07 00:00:00.000,0.0,chekku kmd,Other,badava,spayer,NA,1234567890,0,0,0,,8700,NA
+623,2021-08-01 00:00:00.000,0.0,jcb entrance badava flod repair,Other,badava,JCB Raju,NA,1234567890,0,0,0,,2000,flooding repair at entrance
+620,2021-08-01 00:00:00.000,0.0,chekku kmd,Other,temple land,sprayer,NA,1234567890,0,0,0,,10000,NA
+621,2021-08-01 00:00:00.000,0.0,hari babu,Other,NA,rice,NA,1234567890,0,0,0,,3000,100 kgs
+622,2021-07-31 00:00:00.000,0.0,Navata Tra NDD,Other,NA,rice,NA,1234567890,0,0,0,,825,100kgs
+618,2021-07-31 00:00:00.000,0.0,Paul Team,Other,temple land,sprayer,NA,1234567890,0,0,0,,6800,NA
+619,2021-07-31 00:00:00.000,0.0,peda kapu,Other,temple land,sprayer,NA,1234567890,0,0,0,,500,NA
+617,2021-07-24 00:00:00.000,0.0,Paul Team,Other,temple land,areca ptoection,NA,1234567890,0,0,0,,1200,NA
+616,2021-07-21 00:00:00.000,0.0,Paul Team,Other,temple land,areca ptoection,NA,1234567890,0,0,0,,4000,NA
+615,2021-07-13 00:00:00.000,0.0,peda kapu,Other,NA,sprayers,NA,1234567890,0,0,0,,500,NA
+614,2021-07-12 00:00:00.000,0.0,Paul team,Other,temple land,areca protection,NA,1234567890,0,0,0,,4400,NA
+634,2021-07-09 00:00:00.000,0.0,Srinu Ranthu,Other,badava,Fertilisers,NA,1234567890,0,0,0,,800,NA
+612,2021-07-05 00:00:00.000,0.0,Bighat satiesh,Other,glsel,weed control,NA,1234567890,0,0,0,,3700,NA
+613,2021-07-05 00:00:00.000,0.0,Paul team,Other,badava,spraying,NA,1234567890,0,0,0,,7600,NA
+611,2021-06-29 00:00:00.000,0.0,Bighat satiesh,Other,NA,Pestisides,NA,1234567890,0,0,0,,4000,NA
+610,2021-06-27 00:00:00.000,0.0,admissoins,Other,NDD,Sasi school fees,NA,1234567890,0,0,0,,20000,for both Harshith and Siddhiksha
+608,2021-06-26 00:00:00.000,0.0,Paul team,Other,badava,holes,NA,1234567890,0,0,0,,8000,NA
+609,2021-06-25 00:00:00.000,0.0,jakka gangaraju purpose,Other,NA,help,NA,1234567890,0,0,0,,1000,addi phone pay tadimallla
+607,2021-06-23 00:00:00.000,0.0,satiesh bighat,Other,NA,weed control,NA,1234567890,0,0,0,,3700,"5lit*2 each 1850,paid by phonepay"
+606,2021-06-20 00:00:00.000,0.0,chemical factory ammepalli,Other,NA,Patash 100 packets,NA,1234567890,0,0,0,,30000,NA
+605,2021-06-19 00:00:00.000,0.0,Brahmiya team,Other,badava,Worker charges,NA,1234567890,0,0,0,,3200,NA
+603,2021-06-18 00:00:00.000,0.0,prasad anaya,Other,patimeeda,Transformer,NA,1234567890,0,0,0,,1250,625+625
+604,2021-06-18 00:00:00.000,0.0,factory,Other,patimeeda,patash unload,NA,1234567890,0,0,0,,600,NA
+600,2021-06-12 00:00:00.000,0.0,chekku kmd,Other,badava,Pestisides,NA,1234567890,0,0,0,,3100,NA
+601,2021-06-12 00:00:00.000,0.0,Mavullya vaddilu kmd,Other,badava,Worker charges,NA,1234567890,0,0,0,,2700,NA
+602,2021-06-12 00:00:00.000,0.0,Venkanna tkapu,Other,badava,Worker charges,NA,1234567890,0,0,0,,700,NA
+599,2021-06-08 00:00:00.000,0.0,society,Other,badava,NA,NA,1234567890,0,0,0,urea,265,NA
+598,2021-06-07 00:00:00.000,0.0,Bighat satiesh,Other,badava,Pestisides,NA,1234567890,0,0,0,,3800,glycel 10*1900
+597,2021-06-01 00:00:00.000,0.0,JCB Raju yernagudem,Other,badava,Border digging,NA,1234567890,0,0,0,,7000,6 hours*1200
+593,2021-05-29 00:00:00.000,0.0,Chekku kmd,Other,badava,Pestisides,NA,1234567890,0,0,0,,4700,NA
+594,2021-05-29 00:00:00.000,0.0,Brahmiya,Other,badava,labor charges,NA,1234567890,0,0,0,,4500,NA
+595,2021-05-29 00:00:00.000,0.0,Venkanna turpukapulu,Female,badava,kalupu,NA,1234567890,0,0,0,,2200,NA
+596,2021-05-29 00:00:00.000,0.0,NA,Other,badava,Vishnu Team,NA,1234567890,0,0,0,,350,NA
+591,2021-05-27 00:00:00.000,0.0,satiesh bighat,Other,badava,Pestisides,NA,1234567890,0,0,0,,1900,phonepay
+592,2021-05-27 00:00:00.000,0.0,ndd narasimha rao,Other,NA,washing brushes,NA,1234567890,0,0,0,,600,NA
+590,2021-05-26 00:00:00.000,0.0,srinu kmd,Other,badava,Banana planting,NA,1234567890,0,0,0,,500,NA
+589,2021-05-23 00:00:00.000,0.0,nani kmd,Other,badava,pipe,NA,1234567890,0,0,0,,650,NA
+588,2021-05-22 00:00:00.000,0.0,Brahmiya,Other,temple land,Labor charges,NA,1234567890,0,0,0,,2100,NA
+587,2021-05-11 00:00:00.000,0.0,vishnu,Other,temple land,labor charges,NA,1234567890,0,0,0,,1200,NA
+585,2021-05-10 00:00:00.000,0.0,srinu kmd,Other,badva,Banana planting,NA,1234567890,0,0,0,,1800,NA
+586,2021-05-10 00:00:00.000,0.0,venkanna mutyala,Other,badava,laborchrges,NA,1234567890,0,0,0,,800,NA
+583,2021-05-06 00:00:00.000,0.0,mentiya,Other,NA,drums from factory,NA,1234567890,0,0,0,,1500,NA
+584,2021-05-06 00:00:00.000,0.0,srinu kmd,Other,badava,Banana planting,NA,1234567890,0,0,0,,2000,NA
+582,2021-05-05 00:00:00.000,0.0,M Satyanarayana,Other,NA,Tractor charges,NA,1234567890,0,0,0,,6400,NA
+581,2021-05-02 00:00:00.000,0.0,vishnu team,Other,badava,labor charges,NA,1234567890,0,0,0,,700,NA
+580,2021-05-01 00:00:00.000,0.0,srinu kmd,Other,NA,Banana planting,NA,1234567890,0,0,0,,2000,NA
+579,2021-04-26 00:00:00.000,0.0,Nagesh,Other,NA,gift amount,NA,1234567890,0,0,0,,500,NA
+576,2021-04-25 00:00:00.000,0.0,vishnu team,Other,badava,Labor charges,NA,1234567890,0,0,0,,9100,NA
+577,2021-04-25 00:00:00.000,0.0,nani v kmd,Other,badava,Pipe accessories,NA,1234567890,0,0,0,,650,NA
+578,2021-04-25 00:00:00.000,0.0,Rajesh kalla tjo,Other,temple land,3g gulikalu,NA,1234567890,0,0,0,,600,NA
+575,2021-04-22 00:00:00.000,0.0,srinu kmd,Other,badava,Banana planting,NA,1234567890,0,0,0,,4000,NA
+572,2021-04-21 00:00:00.000,0.0,Satiesh bighaat,Other,NA,Pestisides,NA,1234567890,0,0,0,,2860,NA
+573,2021-04-21 00:00:00.000,0.0,RJY Saik Shareff,Other,NA,portable sprayer,NA,1234567890,0,0,0,,15000,NA
+574,2021-04-21 00:00:00.000,0.0,Chekku kmd,Other,badava,Pestisides,NA,1234567890,0,0,0,,1700,NA
+571,2021-04-19 00:00:00.000,0.0,labor charges,Other,Badva weed control,spraying,NA,1234567890,0,0,0,,4900,NA
+570,2021-04-17 00:00:00.000,0.0,Satiesh Bighot,Other,Badava weed control,herbisides,NA,1234567890,0,0,0,,3800,NA
+731,2021-04-16 00:00:00.000,0.0,Chityala Prasad,Other,badava,Delivery black pipe joint,NA,1234567890,0,0,0,,800,"4 inch,single joint,Prasad is Ratnaji brother"
+569,2021-04-11 00:00:00.000,0.0,vishnu team,Other,badava,badva plant foundation cleaning,NA,1234567890,0,0,0,,7000,20*350
+568,2021-04-04 00:00:00.000,0.0,Satiesh Big hot venkatarao palem,Other,NA,herbisides,NA,1234567890,0,0,0,,1900,NA
+567,2021-04-03 00:00:00.000,0.0,Vishnu team,Other,badava,areca adjusts,NA,1234567890,0,0,0,,7000,NA
+565,2021-04-01 00:00:00.000,0.0,ashok,Other,new bore land,filling gandi,NA,1234567890,0,0,0,,2000,phonepay
+566,2021-04-01 00:00:00.000,0.0,shanmuka,Other,new bore land,blade work,NA,1234567890,0,0,0,,4000,phonepay
+563,2021-03-27 00:00:00.000,0.0,vishnu team,Other,badava,areca adjusts,NA,1234567890,0,0,0,,7000,NA
+562,2021-03-25 00:00:00.000,0.0,NA,Other,new bore land,Blade,NA,1234567890,0,0,0,,4000,2000+2000(phonepay+googlepay) need to give 4000 still
+561,2021-03-23 00:00:00.000,0.0,Vishnu team,Other,badava,hole digging dead areca nuts,NA,1234567890,0,0,0,,4200,NA
+560,2021-03-21 00:00:00.000,0.0,shanmuka,Other,new bore land,blade,NA,1234567890,0,0,0,,2000,"650 per hour,"
+559,2021-03-20 00:00:00.000,0.0,shanmuka,Other,new bore land,blade,NA,1234567890,0,0,0,,2000,NA
+558,2021-03-12 00:00:00.000,0.0,shanmuka,Other,new bore land,blade,NA,1234567890,0,0,0,,1500,500 diesel+1000 by cash to sai.Still needs to give some money to shanmuka
+555,2021-03-06 00:00:00.000,0.0,Nagesh+Vishnu,Other,badava+temple land,Labor charges,NA,1234567890,0,0,0,,9800,Areca planting
+554,2021-03-03 00:00:00.000,0.0,Vinod pallantla,Other,new bore land,Plough,NA,1234567890,0,0,0,,1500,plough at coconut lines
+553,2021-03-02 00:00:00.000,0.0,Annaya,Other,BOB yernagudem,BOB loan purpose,NA,1234567890,0,0,0,,100000,"1 lakh sent to Udaya Kumar account, he cheated"
+551,2021-03-01 00:00:00.000,0.0,chekku kmd,Other,badava,Pestisides,NA,1234567890,0,0,0,,3200,NA
+548,2021-02-28 00:00:00.000,0.0,Ashok yernagudam,Other,new bore land,JCB Work,NA,1234567890,0,0,0,,10200,blade work+beta
+549,2021-02-28 00:00:00.000,0.0,"Nagesh,vishnu,etc",Other,badava,Areca planting,NA,1234567890,0,0,0,,12250,NA
+550,2021-02-28 00:00:00.000,0.0,Pedakapu KMD,Other,badava,sprayers,NA,1234567890,0,0,0,,100,2 days 2 sprayers
+545,2021-02-27 00:00:00.000,0.0,annaya,Other,new bore land,20-20 fertilizer society kmd,NA,1234567890,0,0,0,,900,Have to give udaya
+546,2021-02-27 00:00:00.000,0.0,annaya,Other,new bore land,lbends etc kmd,NA,1234567890,0,0,0,,200,Have to give udaya
+547,2021-02-27 00:00:00.000,0.0,annaya,Other,temple land,coco beans,NA,1234567890,0,0,0,,4375,Collect from Annaya
+544,2021-02-24 00:00:00.000,0.0,Rajesh kalla tjp,Other,badava,3 G gulikalu,NA,1234567890,0,0,0,,1200,phonepay
+543,2021-02-21 00:00:00.000,0.0,Kutumba rao+Moshi,Other,new bore land,Shed,NA,1234567890,0,0,0,,3000,"Total 4 days,2 days full.Each day 650 per person and 325 per half day.total 6500"
+539,2021-02-20 00:00:00.000,0.0,Kumar Mutta KMD,Other,new bore land,cement,NA,1234567890,0,0,0,,1050,phonepay
+540,2021-02-20 00:00:00.000,0.0,"Nagesh,vishnu,etc",Other,badava,Labor charges spraying+areca planting,NA,1234567890,0,0,0,,8750,NA
+541,2021-02-20 00:00:00.000,0.0,Pedakapu KMD,Other,badava+temple land,sprayers,NA,1234567890,0,0,0,,650,NA
+542,2021-02-20 00:00:00.000,0.0,chekku kmd,Other,Temple+badva land,Fertilisers,NA,1234567890,0,0,0,,7010,NA
+537,2021-02-16 00:00:00.000,0.0,kumar mutta kmd,Other,new bore land,cement,NA,1234567890,0,0,0,,2100,phonepay
+538,2021-02-16 00:00:00.000,0.0,Moshi,Other,new bore land,Transport,NA,1234567890,0,0,0,,100,NA
+535,2021-02-13 00:00:00.000,0.0,"Nagesh,vishnu,etc",Other,new bore land,cocnut planting,NA,1234567890,0,0,0,,4900,NA
+536,2021-02-13 00:00:00.000,0.0,"Nagesh,vishnu,etc",Other,badava balance,Labor charge,NA,1234567890,0,0,0,,900,NA
+534,2021-02-11 00:00:00.000,0.0," Acharya Brahmingudam",Other,new bore land,Shed door,NA,1234567890,0,0,0,,2000,phonepay
+532,2021-02-08 00:00:00.000,0.0,Vinod,Other,badava,Plough tractor pallantla,NA,1234567890,0,0,0,,5000,NA
+533,2021-02-08 00:00:00.000,0.0,NA,Other,badava,"labor nagesh ,Lashman",NA,1234567890,0,0,0,,3000,NA
+557,2021-02-08 00:00:00.000,0.0,Siva Kumar,Other,NA,BOB crop loan interest,NA,1234567890,0,0,0,,33900,per 500000 principal
+527,2021-02-07 00:00:00.000,0.0,swami kothapalli,Other,new boreland,coconut kadiyam,NA,1234567890,0,0,0,,13980,NA
+528,2021-02-07 00:00:00.000,0.0,bolero KL,Other,new boreland,transaport,NA,1234567890,0,0,0,,2300,NA
+529,2021-02-07 00:00:00.000,0.0,NA,Other,NA,petrol 2 times KL visit siva with udaya and siva to bring trees,NA,1234567890,0,0,0,,1000,NA
+530,2021-02-07 00:00:00.000,0.0,nagesh mentyya,Other,new boreland,unloading cocnut,NA,1234567890,0,0,0,,1000,NA
+531,2021-02-06 00:00:00.000,0.0,divakar,Other,NA,portable agar machine,NA,1234567890,0,0,0,,11000,NA
+523,2021-02-06 00:00:00.000,0.0,divakar k nagula devu padu,Other,all lands,planting,NA,1234567890,0,0,0,,180000,6000*30
+524,2021-02-06 00:00:00.000,0.0,NA,Other,NA,Labor charges loading,NA,1234567890,0,0,0,,3500,6000 areca_800 coco plants
+525,2021-02-06 00:00:00.000,0.0,NA,Other,NA,Transaport eicher truck,NA,1234567890,0,0,0,,7200,NA
+556,2021-02-05 00:00:00.000,0.0," Rajani account",Other,NA,BOB crop loan interest,NA,1234567890,0,0,0,,32300,per 500000 principal
+564,2021-02-04 00:00:00.000,0.0,pipe accessories,Other,new bore land,nani vempati kmd,NA,1234567890,0,0,0,,1395,phonepay
+526,2021-02-03 00:00:00.000,0.0,NA,Other,NA,petrol,NA,1234567890,0,0,0,,2000,NA
+522,2021-02-03 00:00:00.000,0.0,NA,Other,new bore land,pipe fitting,NA,1234567890,0,0,0,,1200,NA
+521,2021-02-02 00:00:00.000,0.0,srinu mavaya,Other,NA,4 inc Tube,NA,1234567890,0,0,0,,2500,need to collect from annaya
+516,2021-01-31 00:00:00.000,0.0," Acharya Brahmingudam",Other,new bore land,shed door,NA,1234567890,0,0,0,,3000,phonepay
+517,2021-01-31 00:00:00.000,0.0,Vinod Vallabani,Other,badava,Plough,NA,1234567890,0,0,0,,2000,NA
+518,2021-01-30 00:00:00.000,0.0,srinu mavaya,Other,munikoodali,lic purpose,NA,1234567890,0,0,0,,17300,need to collect from srin mavaya
+515,2021-01-30 00:00:00.000,0.0,Moshi,Other,new bore land,shed making,NA,1234567890,0,0,0,,1000,NA
+520,2021-01-30 00:00:00.000,0.0,"Nagesh,Lakshmana",Other,badava+new boreland,shed work,NA,1234567890,0,0,0,,6000,NA
+513,2021-01-28 00:00:00.000,0.0,Moshi and Kutumba rao,Other,new bore land,shed making,NA,1234567890,0,0,0,,2500,NA
+514,2021-01-28 00:00:00.000,0.0,Vinod Vallabani,Other,badava,Plough,NA,1234567890,0,0,0,,5000,NA
+512,2021-01-21 00:00:00.000,0.0,kumar ndd,Other,NA,motor,NA,1234567890,0,0,0,,3900,need to collect from annaya
+511,2021-01-11 00:00:00.000,0.0,chekku kmd,Other,Temple Badava land,spraying,NA,1234567890,0,0,0,,6430,NA
+510,2021-01-10 00:00:00.000,0.0,shanmuka,Other,new bore land,Blade work-7,NA,1234567890,0,0,0,,25000,Online hdfc to sbi Pasupuleti Satyanarayana
+509,2021-01-09 00:00:00.000,0.0,shanmuka_TJP,Other,new bore land,Blade work-6,NA,1234567890,0,0,0,,5000,Venkanmaya
+508,2021-01-07 00:00:00.000,0.0,shanmuka,Other,new bore land,Blade work-5,NA,1234567890,0,0,0,,5000,NA
+507,2021-01-06 00:00:00.000,0.0,shanmuka,Other,new bore land,Blade work-5,NA,1234567890,0,0,0,,5000,2000 shanmuka+3000 gpay sivagowda
+519,2021-01-04 00:00:00.000,0.0,srinu mavaya,Other,munikoodali,corpent work,NA,1234567890,0,0,0,,30000,need to collect from srin mavaya
+680,2021-01-02 00:00:00.000,0.0,Subba Rao Vaddilu Team,Other,badava bodehelu other+spraying,Worker charges,NA,1234567890,0,0,0,,12400,NA
+505,2020-12-31 00:00:00.000,0.0,annya,Other,badava,Labor,NA,1234567890,0,0,0,,3000,NA
+504,2020-12-28 00:00:00.000,0.0,Shanmuka,Other,new bore land,Balade work-4,NA,1234567890,0,0,0,,2000,NA
+503,2020-12-27 00:00:00.000,0.0,Ashok,Other,new bore land,JCB finishing,NA,1234567890,0,0,0,,5000,NA
+502,2020-12-25 00:00:00.000,0.0,Shanmuka,Other,new bore land,Blade work-3,NA,1234567890,0,0,0,,5000,NA
+501,2020-12-23 00:00:00.000,0.0,Krishna Sai,Other,new bore land,Blade work-2,NA,1234567890,0,0,0,,4000,NA
+500,2020-12-22 00:00:00.000,0.0,Shanmuka,Other,new bore land,Blade work-1,NA,1234567890,0,0,0,,4000,NA
+496,2020-12-20 00:00:00.000,0.0,timmaraj palem,Other,new bore land,auto starter,NA,1234567890,0,0,0,,650,additional cost
+497,2020-12-20 00:00:00.000,0.0,timmaraj palem,Other,patimeeda ummadi,auto starter,NA,1234567890,0,0,0,,650,NA
+498,2020-12-20 00:00:00.000,0.0,NA,Other,"annaya ke ",Fuese,NA,1234567890,0,0,0,,780,need to collect from annya
+499,2020-12-20 00:00:00.000,0.0,Ashok,Other,new bore land,Soli work,NA,1234567890,0,0,0,,18000,NA
+495,2020-12-17 00:00:00.000,0.0,Ashok,Other,new bore land,Soli work,NA,1234567890,0,0,0,,10000,NA
+494,2020-12-16 00:00:00.000,0.0,Ashok,Other,new bore land,Soli work,NA,1234567890,0,0,0,,10000,NA
+492,2020-12-15 00:00:00.000,0.0,ashok jcb,Other,new bore land,soli digging,NA,1234567890,0,0,0,,15000,NA
+493,2020-12-15 00:00:00.000,0.0,Raju jcb,Other,new bore land,pipeline filling,NA,1234567890,0,0,0,,3000,NA
+491,2020-12-14 00:00:00.000,0.0,ashok jcb,Other,new bore land,Soil digging,NA,1234567890,0,0,0,,5000,NA
+489,2020-12-12 00:00:00.000,0.0,ashok kmd,Other,new bore land,Soil digging,NA,1234567890,0,0,0,,5000,NA
+490,2020-12-12 00:00:00.000,0.0,Nagesj,Other,new bore land,spraying,NA,1234567890,0,0,0,,3150,NA
+488,2020-12-10 00:00:00.000,0.0,Chekku KMD,Other,badava,Pestisides,NA,1234567890,0,0,0,,7010,NA
+487,2020-12-06 00:00:00.000,0.0,Vijayawada,Other,NA,seeds,NA,1234567890,0,0,0,,3800,NA
+485,2020-12-02 00:00:00.000,0.0,NA,Other,new bore land,Injunction order,NA,1234567890,0,0,0,,30000,NA
+486,2020-12-02 00:00:00.000,0.0,NA,Other,badava,festisid sprayer,NA,1234567890,0,0,0,,5600,NA
+484,2020-11-26 00:00:00.000,0.0,veeraju,Other,new bore land,Blade Work-5,NA,1234567890,0,0,0,,26000,25000+1000(Betas)
+483,2020-11-25 00:00:00.000,0.0,Chekku KMD,Other,temple land,Pestisides,NA,1234567890,0,0,0,,4600,NA
+482,2020-11-21 00:00:00.000,0.0,Badava babna tree cut,Other,badava,cutting banana,NA,1234567890,0,0,0,,7700,NA
+480,2020-11-17 00:00:00.000,0.0,NA,Other,new bore land,Auto rjy to kmd pvc pipes,NA,1234567890,0,0,0,,1600,NA
+481,2020-11-17 00:00:00.000,0.0,nani vempati,Other,new bore land,2-4 inch lbends,NA,1234567890,0,0,0,,260,NA
+479,2020-11-16 00:00:00.000,0.0,ndd venugopla stores,Other,new bore land,Pipes accessories,NA,1234567890,0,0,0,,3385,NA
+478,2020-11-15 00:00:00.000,0.0,truebore,Other,new bore land,new borland,NA,1234567890,0,0,0,,26250,NA
+477,2020-11-14 00:00:00.000,0.0,NA,Other,badava,banan cutting,NA,1234567890,0,0,0,,4500,balance 3 kulipany+50 rs
+476,2020-11-13 00:00:00.000,0.0,Raju jcb,Other,new bore land,jcb work,NA,1234567890,0,0,0,,5000,7:50 H:MM
+475,2020-11-11 00:00:00.000,0.0,veeraju tjp,Other,new bore land,Blade work -4,NA,1234567890,0,0,0,,20000,NA
+473,2020-11-07 00:00:00.000,0.0,Nagesh,Other,opp temple land,kattava,NA,1234567890,0,0,0,,3500,balance 2 kuli charge need to give nagesh
+474,2020-11-07 00:00:00.000,0.0,veeraju tjp,Other,new bore land,blade work 3,NA,1234567890,0,0,0,,5000,NA
+472,2020-11-05 00:00:00.000,0.0,veeraju tjp,Other,new bore land,Blade work-2,NA,1234567890,0,0,0,,5000,NA
+470,2020-10-31 00:00:00.000,0.0,Verraju tjp,Other,new bore land,Blade work-1,NA,1234567890,0,0,0,,5000,NA
+471,2020-10-31 00:00:00.000,0.0,Ravi and Nagesh,Other,temple land,spraying,NA,1234567890,0,0,0,,3000,NA
+469,2020-10-29 00:00:00.000,0.0,Ravi,Other,new bore land,NA,NA,1234567890,0,0,0,,1000,NA
+468,2020-10-28 00:00:00.000,0.0,"Bhadrya ",Other,new bore land,NA,NA,1234567890,0,0,0,,700,NA
+467,2020-10-21 00:00:00.000,0.0,Ravi,Other,NA,NA,NA,1234567890,0,0,0,,500,NA
+466,2020-10-20 00:00:00.000,0.0,Ravi,Other,OppTemplePatimeeda,Fertilizers Spray,NA,1234567890,0,0,0,,1500,NA
+506,2020-01-04 00:00:00.000,0.0,pallantla driver,Other,badava,Plough,NA,1234567890,0,0,0,,300,NA
+552,1900-01-01 00:00:00.000,0.0,NA,Other,NA,NA,NA,1234567890,0,0,0,,0,NA
