@@ -1,20 +1,22 @@
-📌 Objective
+# 📌 Objective
+
 This project tracks and analyzes farm-related expenses to provide insights on daily and weekly costs per field, categorized by crop, work type, and worker details.
 
-🔹 Data Flow
-Source → Google Sheets / CSV file (Farm_Expenses_Backup_31052025.csv)
+# 🔹 Data Flow
 
-Staging → SQL Server stage tables
+## Source → Google Sheets / CSV file (Farm_Expenses_Backup_31052025.csv)
 
-ETL → SQL scripts with CTEs, JOINs, MERGE statements for transformation
+## Staging → SQL Server stage tables
 
-Data Warehouse → Star schema with dimension & fact tables
+## ETL → SQL scripts with CTEs, JOINs, MERGE statements for transformation
 
-Visualization → Power BI reports for actionable insights
+## Data Warehouse → Star schema with dimension & fact tables
 
-🗄 Data Model
+## Visualization → Power BI reports for actionable insights
 
-Dimensions:
+# 🗄 Data Model
+
+## Dimensions:
 
 dim_crop_details
 
@@ -24,18 +26,18 @@ dim_work_details
 
 dim_worker_details
 
-Fact Table:
+## Fact Table:
 
 fact_farm_filed – contains expense records linked to all dimensions
 
-📊 Power BI Insights
+# 📊 Power BI Insights
 Reports Included:
 
-Trend Report → Tracks expense trends over time
+## Trend Report → Tracks expense trends over time
 
-Weekly Report → Weekly cost breakdown by field & crop
+## Weekly Report → Weekly cost breakdown by field & crop
 
-💡 Key Insights
+# 💡 Key Insights
 Most expensive crop and field
 
 Seasonal trends in farming costs
@@ -44,7 +46,7 @@ Worker productivity vs expense
 
 Work type cost breakdown
 
-⚙️ Tech Stack
+# ⚙️ Tech Stack
 Data Source: Google Sheets / CSV
 
 Database: SQL Server
@@ -55,7 +57,7 @@ Visualization: Power BI
 
 Version Control: GitHub
 
-📂 Folder Structure
+# 📂 Folder Structure
 Farm_Expenses_Analytics/
 │
 ├── 📂 Data
