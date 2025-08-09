@@ -15,6 +15,7 @@ This project tracks and analyzes farm-related expenses to provide insights on da
 ## Visualization → Power BI reports for actionable insights
 
 # 🗄 Data Model
+![DML](dwh/dml.jpg)
 
 ## Dimensions:
 
@@ -47,41 +48,12 @@ Worker productivity vs expense
 Work type cost breakdown
 
 # ⚙️ Tech Stack
-Data Source: Google Sheets / CSV
+## Data Source: Google Sheets / CSV
 
-Database: SQL Server
+## Database: SQL Server
 
-ETL Tool: SQL Scripts
+## ETL Tool: SQL Scripts, SSIS
 
-Visualization: Power BI
+## Visualization: Power BI
 
-Version Control: GitHub
-
-# 📂 Folder Structure
-
-Farm_Expenses_Analytics/
-│
-├── 📂 Data
-│   ├── Farm_Expenses_Backup_31052025.csv           # Raw source data
-│   ├── Cleaned_Farm_Expenses.csv                   # Cleaned and transformed dataset
-│
-├── 📂 Scripts
-│   ├── Excel_Data_Cleaning_Steps.xlsx               # Step-by-step transformation in Excel
-│   ├── SQL_ETL_Procedures.sql                       # SQL Server scripts for transformation & load
-│
-├── 📂 DataModel
-│   ├── DML.JPG                                      # Full data model
-│   ├── dim_crop_details.JPG
-│   ├── dim_farm_field.JPG
-│   ├── dim_work_details.JPG
-│   ├── dim_worker_details.JPG
-│   ├── fact_farm_filed.JPG
-│
-├── 📂 PowerBI
-│   ├── Farm_Expenses_Report.pbix                    # Power BI report file
-│   ├── trend_report.JPG
-│   ├── weekly_report.JPG
-│
-├── README.md                                        # Detailed project documentation
-└── LICENSE
-
+## Version Control: GitHub
